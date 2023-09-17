@@ -1,0 +1,1814 @@
+BLSE/SMU24000005051700001,"All Employees, In Thousands; Telecommunications - Maryland"
+BLSE/SMU51000000700000001,"All Employees, In Thousands; Service-Providing - Virginia"
+BLSE/BDU0000000000000000110004RQ5,Employment; Gross Job Losses; All industries; Rate (Percent) - National
+BLSE/BDU0000000000000000110005RQ5,Employment; Contractions; All industries; Rate (Percent) - National
+BLSE/CEU0000000001,"Employment - All employees, thousands; Total nonfarm industry"
+BLSE/CES0600000001,"Employment - All employees, thousands; Goods-producing industry"
+BLSE/BDS0000000000000000110005RQ5,Employment; Contractions; All industries; Rate (Percent) - National
+BLSE/BDS0000000000000000110003RQ5,Employment; Openings; All industries; Rate (Percent) - National
+BLSE/CES9000000001,"Employment - All employees, thousands; Government industry"
+BLSE/CES0500000025,"Employment - All employees, quarterly averages, seasonally adjusted, thousands; Total private industry"
+BLSE/CES0000000025,"Employment - All employees, quarterly averages, seasonally adjusted, thousands; Total nonfarm industry"
+BLSE/CES0700000001,"Employment - All employees, thousands; Service-providing industry"
+BLSE/CES0700000010,"Employment - Women employees, thousands; Service-providing industry"
+BLSE/CES0700000025,"Employment - All employees, quarterly averages, seasonally adjusted, thousands; Service-providing industry"
+BLSE/CEU0700000001,"Employment - All employees, thousands; Service-providing industry"
+BLSE/BDS0000000000000000110006RQ5,Employment; Closings; All industries; Rate (Percent) - National
+BLSE/BDS0000000000000000110002RQ5,Employment; Expansions; All industries; Rate (Percent) - National
+BLSE/BDU0000000000000000110002RQ5,Employment; Expansions; All industries; Rate (Percent) - National
+BLSE/BDS0000000000000000110001RQ5,Employment; Gross Job Gains; All industries; Rate (Percent) - National
+BLSE/CEU9000000001,"Employment - All employees, thousands; Government industry"
+BLSE/BDU0000000000000000110003RQ5,Employment; Openings; All industries; Rate (Percent) - National
+BLSE/CEU0500000001,"Employment - All employees, thousands; Total private industry"
+BLSE/BDU0000000000000000110001RQ5,Employment; Gross Job Gains; All industries; Rate (Percent) - National
+BLSE/CEU9000000010,"Employment - Women employees, thousands; Government industry"
+BLSE/JTS00000000HIR,Hires for Total nonfarm in Total US Region
+BLSE/CES0500000010,"Employment - Women employees, thousands; Total private industry"
+BLSE/CES0000000010,"Employment - Women employees, thousands; Total nonfarm industry"
+BLSE/CEU0600000001,"Employment - All employees, thousands; Goods-producing industry"
+BLSE/CES0500000001,"Employment - All employees, thousands; Total private industry"
+BLSE/BDU0000000000000000110006RQ5,Employment; Closings; All industries; Rate (Percent) - National
+BLSE/CES0600000010,"Employment - Women employees, thousands; Goods-producing industry"
+BLSE/BDS0000000000000000110004RQ5,Employment; Gross Job Losses; All industries; Rate (Percent) - National
+BLSE/CES0600000025,"Employment - All employees, quarterly averages, seasonally adjusted, thousands; Goods-producing industry"
+BLSE/JTS00000000HIL,Hires for Total nonfarm in Total US Region
+BLSE/JTS10000000JOL,Job openings for Total private in Total US Region
+BLSE/CEU0000000010,"Employment - Women employees, thousands; Total nonfarm industry"
+BLSE/JTS10000000OSR,Other separations for Total private in Total US Region
+BLSE/CES0000000001,"Employment - All employees, thousands; Total nonfarm industry"
+BLSE/JTS10000000TSL,Total separations for Total private in Total US Region
+BLSE/JTS23000000JOR,Job openings for Construction in Total US Region
+BLSE/JTS00000000OSR,Other separations for Total nonfarm in Total US Region
+BLSE/JTS23000000QUR,Quits for Construction in Total US Region
+BLSE/JTS32000000JOR,Job openings for Durable goods manufacturing in Total US Region
+BLSE/JTS32000000QUR,Quits for Durable goods manufacturing in Total US Region
+BLSE/CES9000000010,"Employment - Women employees, thousands; Government industry"
+BLSE/JTS10000000LDL,Layoffs and discharges for Total private in Total US Region
+BLSE/CEU0600000010,"Employment - Women employees, thousands; Goods-producing industry"
+BLSE/JTS10000000QUL,Quits for Total private in Total US Region
+BLSE/JTS23000000HIL,Hires for Construction in Total US Region
+BLSE/JTS32000000TSL,Total separations for Durable goods manufacturing in Total US Region
+BLSE/CEU0700000010,"Employment - Women employees, thousands; Service-providing industry"
+BLSE/JTS23000000TSL,Total separations for Construction in Total US Region
+BLSE/JTS34000000TSL,Total separations for Nondurable goods manufacturing in Total US Region
+BLSE/JTS30000000HIL,Hires for Manufacturing in Total US Region
+BLSE/JTS00000000JOR,Job openings for Total nonfarm in Total US Region
+BLSE/JTS00000000JOL,Job openings for Total nonfarm in Total US Region
+BLSE/JTS30000000JOL,Job openings for Manufacturing in Total US Region
+BLSE/JTS40000000TSR,"Total separations for Trade, transportation, and utilities in Total US Region"
+BLSE/JTS32000000JOL,Job openings for Durable goods manufacturing in Total US Region
+BLSE/JTS44000000JOR,Job openings for Retail trade in Total US Region
+BLSE/CEU0500000010,"Employment - Women employees, thousands; Total private industry"
+BLSE/JTS54009900JOL,Job openings for Professional and business services in Total US Region
+BLSE/JTS54009900QUL,Quits for Professional and business services in Total US Region
+BLSE/JTS34000000HIL,Hires for Nondurable goods manufacturing in Total US Region
+BLSE/JTS00000000OSL,Other separations for Total nonfarm in Total US Region
+BLSE/JTS00000000TSL,Total separations for Total nonfarm in Total US Region
+BLSE/JTS00000000LDR,Layoffs and discharges for Total nonfarm in Total US Region
+BLSE/JTS40000000HIR,"Hires for Trade, transportation, and utilities in Total US Region"
+BLSE/JTS10000000HIL,Hires for Total private in Total US Region
+BLSE/JTS10000000HIR,Hires for Total private in Total US Region
+BLSE/JTS62000000JOL,Job openings for Health care and social assistance in Total US Region
+BLSE/JTS60000000TSR,Total separations for Education and health services in Total US Region
+BLSE/JTS44000000HIR,Hires for Retail trade in Total US Region
+BLSE/JTS10000000JOR,Job openings for Total private in Total US Region
+BLSE/JTS70000000HIR,Hires for Leisure and hospitality in Total US Region
+BLSE/JTS10000000OSL,Other separations for Total private in Total US Region
+BLSE/JTS44000000QUL,Quits for Retail trade in Total US Region
+BLSE/JTS10000000TSR,Total separations for Total private in Total US Region
+BLSE/JTS00000000LDL,Layoffs and discharges for Total nonfarm in Total US Region
+BLSE/JTS23000000HIR,Hires for Construction in Total US Region
+BLSE/JTS70000000TSR,Total separations for Leisure and hospitality in Total US Region
+BLSE/JTS60000000HIL,Hires for Education and health services in Total US Region
+BLSE/JTS23000000QUL,Quits for Construction in Total US Region
+BLSE/JTS71000000JOL,"Job openings for Arts, entertainment, and recreation in Total US Region"
+BLSE/JTS54009900TSR,Total separations for Professional and business services in Total US Region
+BLSE/JTS23000000TSR,Total separations for Construction in Total US Region
+BLSE/JTS72000000HIL,Hires for Accommodation and food services in Total US Region
+BLSE/JTS30000000JOR,Job openings for Manufacturing in Total US Region
+BLSE/JTS30000000QUL,Quits for Manufacturing in Total US Region
+BLSE/JTS62000000HIL,Hires for Health care and social assistance in Total US Region
+BLSE/JTS30000000QUR,Quits for Manufacturing in Total US Region
+BLSE/JTS30000000TSL,Total separations for Manufacturing in Total US Region
+BLSE/JTS62000000QUR,Quits for Health care and social assistance in Total US Region
+BLSE/JTS32000000HIR,Hires for Durable goods manufacturing in Total US Region
+BLSE/JTS62000000TSL,Total separations for Health care and social assistance in Total US Region
+BLSE/JTS72000000TSR,Total separations for Accommodation and food services in Total US Region
+BLSE/JTS32000000QUL,Quits for Durable goods manufacturing in Total US Region
+BLSE/JTS72000000JOR,Job openings for Accommodation and food services in Total US Region
+BLSE/JTS00000000TSR,Total separations for Total nonfarm in Total US Region
+BLSE/JTS00000000QUL,Quits for Total nonfarm in Total US Region
+BLSE/JTS90000000LDL,Layoffs and discharges for Government in Total US Region
+BLSE/JTS70000000JOL,Job openings for Leisure and hospitality in Total US Region
+BLSE/JTS34000000HIR,Hires for Nondurable goods manufacturing in Total US Region
+BLSE/JTS70000000JOR,Job openings for Leisure and hospitality in Total US Region
+BLSE/JTS34000000QUR,Quits for Nondurable goods manufacturing in Total US Region
+BLSE/JTS90000000TSL,Total separations for Government in Total US Region
+BLSE/JTS00000000QUR,Quits for Total nonfarm in Total US Region
+BLSE/JTS10000000LDR,Layoffs and discharges for Total private in Total US Region
+BLSE/JTS34000000JOL,Job openings for Nondurable goods manufacturing in Total US Region
+BLSE/JTS71000000HIR,"Hires for Arts, entertainment, and recreation in Total US Region"
+BLSE/JTS34000000TSR,Total separations for Nondurable goods manufacturing in Total US Region
+BLSE/JTS10000000QUR,Quits for Total private in Total US Region
+BLSE/JTS40000000JOR,"Job openings for Trade, transportation, and utilities in Total US Region"
+BLSE/JTS40000000JOL,"Job openings for Trade, transportation, and utilities in Total US Region"
+BLSE/JTS71000000QUR,"Quits for Arts, entertainment, and recreation in Total US Region"
+BLSE/JTS40000000TSL,"Total separations for Trade, transportation, and utilities in Total US Region"
+BLSE/JTS92000000QUR,Quits for State and local in Total US Region
+BLSE/JTS40000000QUR,"Quits for Trade, transportation, and utilities in Total US Region"
+BLSE/JTS23000000JOL,Job openings for Construction in Total US Region
+BLSE/JTS92000000TSR,Total separations for State and local in Total US Region
+BLSE/JTS44000000HIL,Hires for Retail trade in Total US Region
+BLSE/JTS72000000QUR,Quits for Accommodation and food services in Total US Region
+BLSE/JTS44000000JOL,Job openings for Retail trade in Total US Region
+BLSE/JTS44000000QUR,Quits for Retail trade in Total US Region
+BLSE/JTS90000000HIL,Hires for Government in Total US Region
+BLSE/JTS30000000HIR,Hires for Manufacturing in Total US Region
+BLSE/JTU00000000LDR,Layoffs and discharges for Total nonfarm in Total US Region
+BLSE/JTS54009900HIL,Hires for Professional and business services in Total US Region
+BLSE/JTS54009900HIR,Hires for Professional and business services in Total US Region
+BLSE/JTS44000000TSR,Total separations for Retail trade in Total US Region
+BLSE/JTU10000000HIL,Hires for Total private in Total US Region
+BLSE/JTS54009900TSL,Total separations for Professional and business services in Total US Region
+BLSE/JTS32000000HIL,Hires for Durable goods manufacturing in Total US Region
+BLSE/JTS54009900QUR,Quits for Professional and business services in Total US Region
+BLSE/JTS30000000TSR,Total separations for Manufacturing in Total US Region
+BLSE/JTS92000000JOL,Job openings for State and local in Total US Region
+BLSE/JTS32000000TSR,Total separations for Durable goods manufacturing in Total US Region
+BLSE/JTS60000000JOL,Job openings for Education and health services in Total US Region
+BLSE/JTS90000000TSR,Total separations for Government in Total US Region
+BLSE/JTS60000000QUL,Quits for Education and health services in Total US Region
+BLSE/JTU10000000QUR,Quits for Total private in Total US Region
+BLSE/JTS92000000QUL,Quits for State and local in Total US Region
+BLSE/JTS34000000JOR,Job openings for Nondurable goods manufacturing in Total US Region
+BLSE/JTS92000000TSL,Total separations for State and local in Total US Region
+BLSE/JTU11009900JOR,Job openings for Mining and logging in Total US Region
+BLSE/JTS34000000QUL,Quits for Nondurable goods manufacturing in Total US Region
+BLSE/JTS62000000QUL,Quits for Health care and social assistance in Total US Region
+BLSE/JTS60000000QUR,Quits for Education and health services in Total US Region
+BLSE/JTS62000000JOR,Job openings for Health care and social assistance in Total US Region
+BLSE/JTS40000000HIL,"Hires for Trade, transportation, and utilities in Total US Region"
+BLSE/JTS40000000QUL,"Quits for Trade, transportation, and utilities in Total US Region"
+BLSE/JTU11009900TSL,Total separations for Mining and logging in Total US Region
+BLSE/JTU00000000OSR,Other separations for Total nonfarm in Total US Region
+BLSE/JTU00000000TSL,Total separations for Total nonfarm in Total US Region
+BLSE/JTS70000000HIL,Hires for Leisure and hospitality in Total US Region
+BLSE/JTU23000000LDL,Layoffs and discharges for Construction in Total US Region
+BLSE/JTU23000000HIL,Hires for Construction in Total US Region
+BLSE/JTS70000000TSL,Total separations for Leisure and hospitality in Total US Region
+BLSE/JTS70000000QUL,Quits for Leisure and hospitality in Total US Region
+BLSE/JTS70000000QUR,Quits for Leisure and hospitality in Total US Region
+BLSE/JTU10000000OSL,Other separations for Total private in Total US Region
+BLSE/JTS44000000TSL,Total separations for Retail trade in Total US Region
+BLSE/JTU23000000QUL,Quits for Construction in Total US Region
+BLSE/JTS54009900JOR,Job openings for Professional and business services in Total US Region
+BLSE/JTS71000000QUL,"Quits for Arts, entertainment, and recreation in Total US Region"
+BLSE/JTS71000000JOR,"Job openings for Arts, entertainment, and recreation in Total US Region"
+BLSE/JTU30000000HIR,Hires for Manufacturing in Total US Region
+BLSE/JTU11009900HIL,Hires for Mining and logging in Total US Region
+BLSE/JTS71000000TSR,"Total separations for Arts, entertainment, and recreation in Total US Region"
+BLSE/JTU11009900HIR,Hires for Mining and logging in Total US Region
+BLSE/JTS72000000JOL,Job openings for Accommodation and food services in Total US Region
+BLSE/JTS72000000HIR,Hires for Accommodation and food services in Total US Region
+BLSE/JTU30000000QUL,Quits for Manufacturing in Total US Region
+BLSE/JTS60000000HIR,Hires for Education and health services in Total US Region
+BLSE/JTS72000000QUL,Quits for Accommodation and food services in Total US Region
+BLSE/JTU30000000OSR,Other separations for Manufacturing in Total US Region
+BLSE/JTS60000000JOR,Job openings for Education and health services in Total US Region
+BLSE/JTU11009900QUR,Quits for Mining and logging in Total US Region
+BLSE/JTU32000000HIR,Hires for Durable goods manufacturing in Total US Region
+BLSE/JTU11009900TSR,Total separations for Mining and logging in Total US Region
+BLSE/JTS60000000TSL,Total separations for Education and health services in Total US Region
+BLSE/JTS90000000JOR,Job openings for Government in Total US Region
+BLSE/JTU32000000OSL,Other separations for Durable goods manufacturing in Total US Region
+BLSE/JTS90000000HIR,Hires for Government in Total US Region
+BLSE/JTS90000000LDR,Layoffs and discharges for Government in Total US Region
+BLSE/JTS62000000HIR,Hires for Health care and social assistance in Total US Region
+BLSE/JTS90000000OSL,Other separations for Government in Total US Region
+BLSE/JTU23000000LDR,Layoffs and discharges for Construction in Total US Region
+BLSE/JTU23000000HIR,Hires for Construction in Total US Region
+BLSE/JTS92000000HIL,Hires for State and local in Total US Region
+BLSE/JTS62000000TSR,Total separations for Health care and social assistance in Total US Region
+BLSE/JTU32000000TSR,Total separations for Durable goods manufacturing in Total US Region
+BLSE/JTU34000000HIR,Hires for Nondurable goods manufacturing in Total US Region
+BLSE/JTS92000000HIR,Hires for State and local in Total US Region
+BLSE/JTU23000000TSR,Total separations for Construction in Total US Region
+BLSE/JTU30000000JOL,Job openings for Manufacturing in Total US Region
+BLSE/JTU00000000HIR,Hires for Total nonfarm in Total US Region
+BLSE/JTU34000000JOL,Job openings for Nondurable goods manufacturing in Total US Region
+BLSE/JTS71000000HIL,"Hires for Arts, entertainment, and recreation in Total US Region"
+BLSE/JTU00000000JOL,Job openings for Total nonfarm in Total US Region
+BLSE/JTU30000000LDL,Layoffs and discharges for Manufacturing in Total US Region
+BLSE/JTU30000000OSL,Other separations for Manufacturing in Total US Region
+BLSE/JTU34000000TSL,Total separations for Nondurable goods manufacturing in Total US Region
+BLSE/JTS71000000TSL,"Total separations for Arts, entertainment, and recreation in Total US Region"
+BLSE/JTU00000000OSL,Other separations for Total nonfarm in Total US Region
+BLSE/JTU32000000JOL,Job openings for Durable goods manufacturing in Total US Region
+BLSE/JTU00000000QUL,Quits for Total nonfarm in Total US Region
+BLSE/JTU32000000JOR,Job openings for Durable goods manufacturing in Total US Region
+BLSE/JTU00000000TSR,Total separations for Total nonfarm in Total US Region
+BLSE/JTU40000000JOR,"Job openings for Trade, transportation, and utilities in Total US Region"
+BLSE/JTU10000000JOR,Job openings for Total private in Total US Region
+BLSE/JTS72000000TSL,Total separations for Accommodation and food services in Total US Region
+BLSE/JTU32000000OSR,Other separations for Durable goods manufacturing in Total US Region
+BLSE/JTU10000000LDL,Layoffs and discharges for Total private in Total US Region
+BLSE/JTU10000000HIR,Hires for Total private in Total US Region
+BLSE/JTU40000000TSR,"Total separations for Trade, transportation, and utilities in Total US Region"
+BLSE/JTU10000000OSR,Other separations for Total private in Total US Region
+BLSE/JTS90000000JOL,Job openings for Government in Total US Region
+BLSE/JTU42000000JOL,Job openings for Wholesale trade in Total US Region
+BLSE/JTU10000000QUL,Quits for Total private in Total US Region
+BLSE/JTS90000000OSR,Other separations for Government in Total US Region
+BLSE/JTS90000000QUR,Quits for Government in Total US Region
+BLSE/JTU11009900JOL,Job openings for Mining and logging in Total US Region
+BLSE/JTU42000000QUL,Quits for Wholesale trade in Total US Region
+BLSE/JTS90000000QUL,Quits for Government in Total US Region
+BLSE/JTU11009900OSL,Other separations for Mining and logging in Total US Region
+BLSE/JTU11009900LDR,Layoffs and discharges for Mining and logging in Total US Region
+BLSE/JTS92000000JOR,Job openings for State and local in Total US Region
+BLSE/JTU34000000TSR,Total separations for Nondurable goods manufacturing in Total US Region
+BLSE/JTU44000000JOR,Job openings for Retail trade in Total US Region
+BLSE/JTU11009900QUL,Quits for Mining and logging in Total US Region
+BLSE/JTU11009900LDL,Layoffs and discharges for Mining and logging in Total US Region
+BLSE/JTU00000000HIL,Hires for Total nonfarm in Total US Region
+BLSE/JTU00000000JOR,Job openings for Total nonfarm in Total US Region
+BLSE/JTU23000000OSL,Other separations for Construction in Total US Region
+BLSE/JTU40000000OSR,"Other separations for Trade, transportation, and utilities in Total US Region"
+BLSE/JTU48009900HIL,"Hires for Transportation, warehousing, and utilities in Total US Region"
+BLSE/JTU00000000LDL,Layoffs and discharges for Total nonfarm in Total US Region
+BLSE/JTU23000000JOR,Job openings for Construction in Total US Region
+BLSE/JTU40000000TSL,"Total separations for Trade, transportation, and utilities in Total US Region"
+BLSE/JTU23000000QUR,Quits for Construction in Total US Region
+BLSE/JTU42000000HIR,Hires for Wholesale trade in Total US Region
+BLSE/JTU00000000QUR,Quits for Total nonfarm in Total US Region
+BLSE/JTU30000000HIL,Hires for Manufacturing in Total US Region
+BLSE/JTU10000000JOL,Job openings for Total private in Total US Region
+BLSE/JTU42000000OSL,Other separations for Wholesale trade in Total US Region
+BLSE/JTU48009900OSR,"Other separations for Transportation, warehousing, and utilities in Total US Region"
+BLSE/JTU42000000OSR,Other separations for Wholesale trade in Total US Region
+BLSE/JTU42000000TSL,Total separations for Wholesale trade in Total US Region
+BLSE/JTU10000000LDR,Layoffs and discharges for Total private in Total US Region
+BLSE/JTU48009900TSL,"Total separations for Transportation, warehousing, and utilities in Total US Region"
+BLSE/JTU30000000TSR,Total separations for Manufacturing in Total US Region
+BLSE/JTU44000000HIR,Hires for Retail trade in Total US Region
+BLSE/JTU30000000TSL,Total separations for Manufacturing in Total US Region
+BLSE/JTU10000000TSL,Total separations for Total private in Total US Region
+BLSE/JTU51000000LDR,Layoffs and discharges for Information in Total US Region
+BLSE/JTU44000000OSL,Other separations for Retail trade in Total US Region
+BLSE/JTU30000000QUR,Quits for Manufacturing in Total US Region
+BLSE/JTU23000000TSL,Total separations for Construction in Total US Region
+BLSE/JTU44000000JOL,Job openings for Retail trade in Total US Region
+BLSE/JTU51000000OSR,Other separations for Information in Total US Region
+BLSE/JTU32000000LDR,Layoffs and discharges for Durable goods manufacturing in Total US Region
+BLSE/JTU10000000TSR,Total separations for Total private in Total US Region
+BLSE/JTU44000000QUL,Quits for Retail trade in Total US Region
+BLSE/JTU44000000TSL,Total separations for Retail trade in Total US Region
+BLSE/JTU32000000TSL,Total separations for Durable goods manufacturing in Total US Region
+BLSE/JTU48009900HIR,"Hires for Transportation, warehousing, and utilities in Total US Region"
+BLSE/JTU11009900OSR,Other separations for Mining and logging in Total US Region
+BLSE/JTU32000000QUR,Quits for Durable goods manufacturing in Total US Region
+BLSE/JTU32000000QUL,Quits for Durable goods manufacturing in Total US Region
+BLSE/JTU34000000HIL,Hires for Nondurable goods manufacturing in Total US Region
+BLSE/JTU51009900OSR,Other separations for Financial activities in Total US Region
+BLSE/JTU51009900TSL,Total separations for Financial activities in Total US Region
+BLSE/JTU23000000OSR,Other separations for Construction in Total US Region
+BLSE/JTU48009900QUR,"Quits for Transportation, warehousing, and utilities in Total US Region"
+BLSE/JTU34000000LDL,Layoffs and discharges for Nondurable goods manufacturing in Total US Region
+BLSE/JTU34000000OSL,Other separations for Nondurable goods manufacturing in Total US Region
+BLSE/JTU23000000JOL,Job openings for Construction in Total US Region
+BLSE/JTU48009900TSR,"Total separations for Transportation, warehousing, and utilities in Total US Region"
+BLSE/JTU34000000LDR,Layoffs and discharges for Nondurable goods manufacturing in Total US Region
+BLSE/JTU34000000OSR,Other separations for Nondurable goods manufacturing in Total US Region
+BLSE/JTU34000000QUR,Quits for Nondurable goods manufacturing in Total US Region
+BLSE/JTU52000000OSR,Other separations for Finance and insurance in Total US Region
+BLSE/JTU51000000JOR,Job openings for Information in Total US Region
+BLSE/JTU30000000JOR,Job openings for Manufacturing in Total US Region
+BLSE/JTU51000000JOL,Job openings for Information in Total US Region
+BLSE/JTU30000000LDR,Layoffs and discharges for Manufacturing in Total US Region
+BLSE/JTU40000000JOL,"Job openings for Trade, transportation, and utilities in Total US Region"
+BLSE/JTU40000000LDL,"Layoffs and discharges for Trade, transportation, and utilities in Total US Region"
+BLSE/JTU51000000TSR,Total separations for Information in Total US Region
+BLSE/JTU52000000TSL,Total separations for Finance and insurance in Total US Region
+BLSE/JTU48009900LDR,"Layoffs and discharges for Transportation, warehousing, and utilities in Total US Region"
+BLSE/JTU40000000QUL,"Quits for Trade, transportation, and utilities in Total US Region"
+BLSE/JTU40000000OSL,"Other separations for Trade, transportation, and utilities in Total US Region"
+BLSE/JTU32000000HIL,Hires for Durable goods manufacturing in Total US Region
+BLSE/JTU51009900JOR,Job openings for Financial activities in Total US Region
+BLSE/JTU52000000OSL,Other separations for Finance and insurance in Total US Region
+BLSE/JTU42000000HIL,Hires for Wholesale trade in Total US Region
+BLSE/JTU51009900LDL,Layoffs and discharges for Financial activities in Total US Region
+BLSE/JTU32000000LDL,Layoffs and discharges for Durable goods manufacturing in Total US Region
+BLSE/JTU42000000JOR,Job openings for Wholesale trade in Total US Region
+BLSE/JTU53000000LDR,Layoffs and discharges for Real estate and rental and leasing in Total US Region
+BLSE/JTU42000000LDR,Layoffs and discharges for Wholesale trade in Total US Region
+BLSE/JTU53000000QUR,Quits for Real estate and rental and leasing in Total US Region
+BLSE/JTU52000000HIR,Hires for Finance and insurance in Total US Region
+BLSE/JTU42000000TSR,Total separations for Wholesale trade in Total US Region
+BLSE/JTU54009900LDR,Layoffs and discharges for Professional and business services in Total US Region
+BLSE/JTU52000000HIL,Hires for Finance and insurance in Total US Region
+BLSE/JTU51009900TSR,Total separations for Financial activities in Total US Region
+BLSE/JTU54009900OSL,Other separations for Professional and business services in Total US Region
+BLSE/JTU44000000LDR,Layoffs and discharges for Retail trade in Total US Region
+BLSE/JTU44000000HIL,Hires for Retail trade in Total US Region
+BLSE/JTU54009900QUR,Quits for Professional and business services in Total US Region
+BLSE/JTU52000000QUR,Quits for Finance and insurance in Total US Region
+BLSE/JTU34000000JOR,Job openings for Nondurable goods manufacturing in Total US Region
+BLSE/JTU34000000QUL,Quits for Nondurable goods manufacturing in Total US Region
+BLSE/JTU52000000TSR,Total separations for Finance and insurance in Total US Region
+BLSE/JTU44000000QUR,Quits for Retail trade in Total US Region
+BLSE/JTU44000000TSR,Total separations for Retail trade in Total US Region
+BLSE/JTU40000000HIL,"Hires for Trade, transportation, and utilities in Total US Region"
+BLSE/JTU60000000QUR,Quits for Education and health services in Total US Region
+BLSE/JTU53000000LDL,Layoffs and discharges for Real estate and rental and leasing in Total US Region
+BLSE/JTU40000000HIR,"Hires for Trade, transportation, and utilities in Total US Region"
+BLSE/JTU53000000OSR,Other separations for Real estate and rental and leasing in Total US Region
+BLSE/JTU48009900JOR,"Job openings for Transportation, warehousing, and utilities in Total US Region"
+BLSE/JTU60000000OSL,Other separations for Education and health services in Total US Region
+BLSE/JTU40000000LDR,"Layoffs and discharges for Trade, transportation, and utilities in Total US Region"
+BLSE/JTU48009900LDL,"Layoffs and discharges for Transportation, warehousing, and utilities in Total US Region"
+BLSE/JTU53000000TSR,Total separations for Real estate and rental and leasing in Total US Region
+BLSE/JTU48009900QUL,"Quits for Transportation, warehousing, and utilities in Total US Region"
+BLSE/JTU40000000QUR,"Quits for Trade, transportation, and utilities in Total US Region"
+BLSE/JTU61000000LDR,Layoffs and discharges for Educational services in Total US Region
+BLSE/JTU61000000OSL,Other separations for Educational services in Total US Region
+BLSE/JTU54009900JOR,Job openings for Professional and business services in Total US Region
+BLSE/JTU54009900HIR,Hires for Professional and business services in Total US Region
+BLSE/JTU51000000HIR,Hires for Information in Total US Region
+BLSE/JTU51000000LDL,Layoffs and discharges for Information in Total US Region
+BLSE/JTU42000000LDL,Layoffs and discharges for Wholesale trade in Total US Region
+BLSE/JTU54009900QUL,Quits for Professional and business services in Total US Region
+BLSE/JTU60000000HIL,Hires for Education and health services in Total US Region
+BLSE/JTU42000000QUR,Quits for Wholesale trade in Total US Region
+BLSE/JTU61000000OSR,Other separations for Educational services in Total US Region
+BLSE/JTU60000000JOL,Job openings for Education and health services in Total US Region
+BLSE/JTU51000000TSL,Total separations for Information in Total US Region
+BLSE/JTU51009900HIL,Hires for Financial activities in Total US Region
+BLSE/JTU60000000LDL,Layoffs and discharges for Education and health services in Total US Region
+BLSE/JTU51000000QUL,Quits for Information in Total US Region
+BLSE/JTU51009900JOL,Job openings for Financial activities in Total US Region
+BLSE/JTU62000000JOR,Job openings for Health care and social assistance in Total US Region
+BLSE/JTU62000000OSR,Other separations for Health care and social assistance in Total US Region
+BLSE/JTU51009900LDR,Layoffs and discharges for Financial activities in Total US Region
+BLSE/JTU60000000OSR,Other separations for Education and health services in Total US Region
+BLSE/JTU44000000LDL,Layoffs and discharges for Retail trade in Total US Region
+BLSE/JTU62000000TSR,Total separations for Health care and social assistance in Total US Region
+BLSE/JTU51009900QUL,Quits for Financial activities in Total US Region
+BLSE/JTU44000000OSR,Other separations for Retail trade in Total US Region
+BLSE/JTU60000000QUL,Quits for Education and health services in Total US Region
+BLSE/JTU70000000JOL,Job openings for Leisure and hospitality in Total US Region
+BLSE/JTU70000000JOR,Job openings for Leisure and hospitality in Total US Region
+BLSE/JTU70000000LDR,Layoffs and discharges for Leisure and hospitality in Total US Region
+BLSE/JTU52000000LDL,Layoffs and discharges for Finance and insurance in Total US Region
+BLSE/JTU48009900JOL,"Job openings for Transportation, warehousing, and utilities in Total US Region"
+BLSE/JTU61000000QUL,Quits for Educational services in Total US Region
+BLSE/JTU52000000JOR,Job openings for Finance and insurance in Total US Region
+BLSE/JTU71000000HIR,"Hires for Arts, entertainment, and recreation in Total US Region"
+BLSE/JTU71000000JOR,"Job openings for Arts, entertainment, and recreation in Total US Region"
+BLSE/JTU48009900OSL,"Other separations for Transportation, warehousing, and utilities in Total US Region"
+BLSE/JTU61000000QUR,Quits for Educational services in Total US Region
+BLSE/JTU51000000HIL,Hires for Information in Total US Region
+BLSE/JTU53000000HIL,Hires for Real estate and rental and leasing in Total US Region
+BLSE/JTU62000000JOL,Job openings for Health care and social assistance in Total US Region
+BLSE/JTU53000000JOL,Job openings for Real estate and rental and leasing in Total US Region
+BLSE/JTU62000000LDR,Layoffs and discharges for Health care and social assistance in Total US Region
+BLSE/JTU51000000OSL,Other separations for Information in Total US Region
+BLSE/JTU52000000QUL,Quits for Finance and insurance in Total US Region
+BLSE/JTU71000000QUL,"Quits for Arts, entertainment, and recreation in Total US Region"
+BLSE/JTU71000000QUR,"Quits for Arts, entertainment, and recreation in Total US Region"
+BLSE/JTU53000000QUL,Quits for Real estate and rental and leasing in Total US Region
+BLSE/JTU53000000TSL,Total separations for Real estate and rental and leasing in Total US Region
+BLSE/JTU71000000TSL,"Total separations for Arts, entertainment, and recreation in Total US Region"
+BLSE/JTU70000000HIR,Hires for Leisure and hospitality in Total US Region
+BLSE/JTU51000000QUR,Quits for Information in Total US Region
+BLSE/JTU72000000LDL,Layoffs and discharges for Accommodation and food services in Total US Region
+BLSE/JTU51009900HIR,Hires for Financial activities in Total US Region
+BLSE/JTU54009900HIL,Hires for Professional and business services in Total US Region
+BLSE/JTU70000000OSR,Other separations for Leisure and hospitality in Total US Region
+BLSE/JTU51009900OSL,Other separations for Financial activities in Total US Region
+BLSE/JTU72000000TSL,Total separations for Accommodation and food services in Total US Region
+BLSE/JTU70000000TSR,Total separations for Leisure and hospitality in Total US Region
+BLSE/JTU51009900QUR,Quits for Financial activities in Total US Region
+BLSE/JTU54009900TSL,Total separations for Professional and business services in Total US Region
+BLSE/JTU52000000JOL,Job openings for Finance and insurance in Total US Region
+BLSE/JTU60000000JOR,Job openings for Education and health services in Total US Region
+BLSE/JTU81000000LDR,Layoffs and discharges for Other services in Total US Region
+BLSE/JTU60000000LDR,Layoffs and discharges for Education and health services in Total US Region
+BLSE/JTU81000000TSR,Total separations for Other services in Total US Region
+BLSE/JTU81000000LDL,Layoffs and discharges for Other services in Total US Region
+BLSE/JTU52000000LDR,Layoffs and discharges for Finance and insurance in Total US Region
+BLSE/JTU60000000TSR,Total separations for Education and health services in Total US Region
+BLSE/JTU72000000HIL,Hires for Accommodation and food services in Total US Region
+BLSE/JTU61000000HIR,Hires for Educational services in Total US Region
+BLSE/JTU53000000HIR,Hires for Real estate and rental and leasing in Total US Region
+BLSE/JTU60000000TSL,Total separations for Education and health services in Total US Region
+BLSE/JTU61000000JOL,Job openings for Educational services in Total US Region
+BLSE/JTU61000000JOR,Job openings for Educational services in Total US Region
+BLSE/JTU72000000QUR,Quits for Accommodation and food services in Total US Region
+BLSE/JTU72000000QUL,Quits for Accommodation and food services in Total US Region
+BLSE/JTU61000000LDL,Layoffs and discharges for Educational services in Total US Region
+BLSE/JTU53000000JOR,Job openings for Real estate and rental and leasing in Total US Region
+BLSE/JTU53000000OSL,Other separations for Real estate and rental and leasing in Total US Region
+BLSE/JTU90000000OSR,Other separations for Government in Total US Region
+BLSE/JTU91000000JOL,Job openings for Federal in Total US Region
+BLSE/JTU91000000HIR,Hires for Federal in Total US Region
+BLSE/JTU61000000TSL,Total separations for Educational services in Total US Region
+BLSE/JTU61000000TSR,Total separations for Educational services in Total US Region
+BLSE/JTU91000000QUL,Quits for Federal in Total US Region
+BLSE/JTU62000000HIL,Hires for Health care and social assistance in Total US Region
+BLSE/JTU54009900JOL,Job openings for Professional and business services in Total US Region
+BLSE/JTU62000000LDL,Layoffs and discharges for Health care and social assistance in Total US Region
+BLSE/JTU91000000QUR,Quits for Federal in Total US Region
+BLSE/JTU54009900LDL,Layoffs and discharges for Professional and business services in Total US Region
+BLSE/JTU81000000QUR,Quits for Other services in Total US Region
+BLSE/JTU54009900OSR,Other separations for Professional and business services in Total US Region
+BLSE/JTU62000000QUR,Quits for Health care and social assistance in Total US Region
+BLSE/JTU90000000JOL,Job openings for Government in Total US Region
+BLSE/JTU62000000HIR,Hires for Health care and social assistance in Total US Region
+BLSE/JTU54009900TSR,Total separations for Professional and business services in Total US Region
+BLSE/JTU62000000TSL,Total separations for Health care and social assistance in Total US Region
+BLSE/JTU60000000HIR,Hires for Education and health services in Total US Region
+BLSE/JTU92000000LDR,Layoffs and discharges for State and local in Total US Region
+BLSE/JTU92000000QUR,Quits for State and local in Total US Region
+BLSE/JTU70000000LDL,Layoffs and discharges for Leisure and hospitality in Total US Region
+BLSE/JTU90000000LDR,Layoffs and discharges for Government in Total US Region
+BLSE/JTU70000000QUR,Quits for Leisure and hospitality in Total US Region
+BLSE/LAUST010000000000004,Unemployment in Alabama
+BLSE/JTU70000000QUL,Quits for Leisure and hospitality in Total US Region
+BLSE/JTU70000000TSL,Total separations for Leisure and hospitality in Total US Region
+BLSE/JTU71000000JOL,"Job openings for Arts, entertainment, and recreation in Total US Region"
+BLSE/JTU61000000HIL,Hires for Educational services in Total US Region
+BLSE/JTU91000000LDL,Layoffs and discharges for Federal in Total US Region
+BLSE/JTU90000000QUL,Quits for Government in Total US Region
+BLSE/JTU71000000OSL,"Other separations for Arts, entertainment, and recreation in Total US Region"
+BLSE/JTU71000000LDR,"Layoffs and discharges for Arts, entertainment, and recreation in Total US Region"
+BLSE/LAUST020000000000003,Unemployment rate in Alaska
+BLSE/LAUST010000000000006,Labor force in Alabama
+BLSE/JTU91000000TSL,Total separations for Federal in Total US Region
+BLSE/JTU71000000OSR,"Other separations for Arts, entertainment, and recreation in Total US Region"
+BLSE/LAUST020000000000006,Labor force in Alaska
+BLSE/JTU92000000HIL,Hires for State and local in Total US Region
+BLSE/JTU71000000TSR,"Total separations for Arts, entertainment, and recreation in Total US Region"
+BLSE/JTU72000000HIR,Hires for Accommodation and food services in Total US Region
+BLSE/JTU72000000LDR,Layoffs and discharges for Accommodation and food services in Total US Region
+BLSE/JTU92000000LDL,Layoffs and discharges for State and local in Total US Region
+BLSE/JTU72000000OSL,Other separations for Accommodation and food services in Total US Region
+BLSE/JTU72000000JOL,Job openings for Accommodation and food services in Total US Region
+BLSE/JTU92000000QUL,Quits for State and local in Total US Region
+BLSE/JTU62000000OSL,Other separations for Health care and social assistance in Total US Region
+BLSE/JTU62000000QUL,Quits for Health care and social assistance in Total US Region
+BLSE/LAUST060000000000005,Employment in California
+BLSE/LAUST090000000000003,Unemployment rate in Connecticut
+BLSE/JTU81000000HIL,Hires for Other services in Total US Region
+BLSE/LAUST090000000000006,Labor force in Connecticut
+BLSE/JTU70000000HIL,Hires for Leisure and hospitality in Total US Region
+BLSE/LAUST090000000000005,Employment in Connecticut
+BLSE/JTU81000000OSR,Other separations for Other services in Total US Region
+BLSE/JTU70000000OSL,Other separations for Leisure and hospitality in Total US Region
+BLSE/LAUST040000000000003,Unemployment rate in Arizona
+BLSE/JTU81000000JOL,Job openings for Other services in Total US Region
+BLSE/LAUST010000000000005,Employment in Alabama
+BLSE/LAUST050000000000004,Unemployment in Arkansas
+BLSE/JTU81000000TSL,Total separations for Other services in Total US Region
+BLSE/LAUST110000000000004,Unemployment in District of Columbia
+BLSE/JTU71000000HIL,"Hires for Arts, entertainment, and recreation in Total US Region"
+BLSE/JTU90000000HIL,Hires for Government in Total US Region
+BLSE/LAUST120000000000003,Unemployment rate in Florida
+BLSE/LAUST050000000000006,Labor force in Arkansas
+BLSE/JTU90000000HIR,Hires for Government in Total US Region
+BLSE/LAUST120000000000005,Employment in Florida
+BLSE/JTU90000000LDL,Layoffs and discharges for Government in Total US Region
+BLSE/LAUST060000000000004,Unemployment in California
+BLSE/LAUST150000000000004,Unemployment in Hawaii
+BLSE/JTU90000000OSL,Other separations for Government in Total US Region
+BLSE/JTU71000000LDL,"Layoffs and discharges for Arts, entertainment, and recreation in Total US Region"
+BLSE/LAUST080000000000005,Employment in Colorado
+BLSE/LAUST160000000000005,Employment in Idaho
+BLSE/LAUST080000000000006,Labor force in Colorado
+BLSE/JTU90000000QUR,Quits for Government in Total US Region
+BLSE/JTU90000000TSL,Total separations for Government in Total US Region
+BLSE/LAUST180000000000004,Unemployment in Indiana
+BLSE/JTU91000000JOR,Job openings for Federal in Total US Region
+BLSE/JTU72000000JOR,Job openings for Accommodation and food services in Total US Region
+BLSE/LAUST180000000000005,Employment in Indiana
+BLSE/JTU91000000OSL,Other separations for Federal in Total US Region
+BLSE/JTU72000000OSR,Other separations for Accommodation and food services in Total US Region
+BLSE/JTU91000000HIL,Hires for Federal in Total US Region
+BLSE/JTU72000000TSR,Total separations for Accommodation and food services in Total US Region
+BLSE/LAUST120000000000004,Unemployment in Florida
+BLSE/LAUST210000000000003,Unemployment rate in Kentucky
+BLSE/LAUST120000000000006,Labor force in Florida
+BLSE/JTU81000000HIR,Hires for Other services in Total US Region
+BLSE/JTU91000000TSR,Total separations for Federal in Total US Region
+BLSE/JTU81000000JOR,Job openings for Other services in Total US Region
+BLSE/LAUST130000000000004,Unemployment in Georgia
+BLSE/LAUST200000000000005,Employment in Kansas
+BLSE/JTU81000000OSL,Other separations for Other services in Total US Region
+BLSE/JTU92000000OSR,Other separations for State and local in Total US Region
+BLSE/JTU81000000QUL,Quits for Other services in Total US Region
+BLSE/JTU92000000OSL,Other separations for State and local in Total US Region
+BLSE/JTU92000000TSL,Total separations for State and local in Total US Region
+BLSE/LAUST160000000000003,Unemployment rate in Idaho
+BLSE/LAUST010000000000003,Unemployment rate in Alabama
+BLSE/JTU90000000JOR,Job openings for Government in Total US Region
+BLSE/LAUST230000000000006,Labor force in Maine
+BLSE/LAUST160000000000006,Labor force in Idaho
+BLSE/LAUST230000000000003,Unemployment rate in Maine
+BLSE/JTU92000000TSR,Total separations for State and local in Total US Region
+BLSE/LAUST190000000000003,Unemployment rate in Iowa
+BLSE/LAUST250000000000003,Unemployment rate in Massachusetts
+BLSE/LAUST050000000000003,Unemployment rate in Arkansas
+BLSE/LAUST040000000000005,Employment in Arizona
+BLSE/LAUST200000000000003,Unemployment rate in Kansas
+BLSE/LAUST020000000000005,Employment in Alaska
+BLSE/LAUST270000000000004,Unemployment in Minnesota
+BLSE/LAUST270000000000005,Employment in Minnesota
+BLSE/JTU91000000LDR,Layoffs and discharges for Federal in Total US Region
+BLSE/JTU90000000TSR,Total separations for Government in Total US Region
+BLSE/LAUST050000000000005,Employment in Arkansas
+BLSE/LAUST200000000000006,Labor force in Kansas
+BLSE/LAUST220000000000004,Unemployment in Louisiana
+BLSE/LAUST060000000000006,Labor force in California
+BLSE/LAUST080000000000004,Unemployment in Colorado
+BLSE/LAUST300000000000004,Unemployment in Montana
+BLSE/LAUST310000000000003,Unemployment rate in Nebraska
+BLSE/JTU92000000HIR,Hires for State and local in Total US Region
+BLSE/LAUST100000000000003,Unemployment rate in Delaware
+BLSE/JTU92000000JOL,Job openings for State and local in Total US Region
+BLSE/JTU92000000JOR,Job openings for State and local in Total US Region
+BLSE/LAUST100000000000005,Employment in Delaware
+BLSE/LAUST100000000000006,Labor force in Delaware
+BLSE/LAUST110000000000003,Unemployment rate in District of Columbia
+BLSE/LAUST250000000000006,Labor force in Massachusetts
+BLSE/LAUST330000000000003,Unemployment rate in New Hampshire
+BLSE/LAUST110000000000005,Employment in District of Columbia
+BLSE/JTU91000000OSR,Other separations for Federal in Total US Region
+BLSE/LAUST130000000000003,Unemployment rate in Georgia
+BLSE/LAUST280000000000003,Unemployment rate in Mississippi
+BLSE/LAUST130000000000006,Labor force in Georgia
+BLSE/LAUST130000000000005,Employment in Georgia
+BLSE/LAUST340000000000006,Labor force in New Jersey
+BLSE/LAUST020000000000004,Unemployment in Alaska
+BLSE/LAUST040000000000004,Unemployment in Arizona
+BLSE/LAUST150000000000006,Labor force in Hawaii
+BLSE/LAUST040000000000006,Labor force in Arizona
+BLSE/LAUST360000000000004,Unemployment in New York
+BLSE/LAUST160000000000004,Unemployment in Idaho
+BLSE/LAUST290000000000005,Employment in Missouri
+BLSE/LAUST060000000000003,Unemployment rate in California
+BLSE/LAUST170000000000005,Employment in Illinois
+BLSE/LAUST380000000000003,Unemployment rate in North Dakota
+BLSE/LAUST180000000000006,Labor force in Indiana
+BLSE/LAUST310000000000005,Employment in Nebraska
+BLSE/LAUST180000000000003,Unemployment rate in Indiana
+BLSE/LAUST310000000000006,Labor force in Nebraska
+BLSE/LAUST190000000000005,Employment in Iowa
+BLSE/LAUST080000000000003,Unemployment rate in Colorado
+BLSE/LAUST320000000000006,Labor force in Nevada
+BLSE/LAUST390000000000005,Employment in Ohio
+BLSE/LAUST090000000000004,Unemployment in Connecticut
+BLSE/LAUST200000000000004,Unemployment in Kansas
+BLSE/LAUST340000000000004,Unemployment in New Jersey
+BLSE/LAUST340000000000005,Employment in New Jersey
+BLSE/LAUST410000000000005,Employment in Oregon
+BLSE/LAUST330000000000006,Labor force in New Hampshire
+BLSE/LAUST210000000000006,Labor force in Kentucky
+BLSE/LAUST410000000000003,Unemployment rate in Oregon
+BLSE/LAUST100000000000004,Unemployment in Delaware
+BLSE/LAUST220000000000003,Unemployment rate in Louisiana
+BLSE/LAUST420000000000003,Unemployment rate in Pennsylvania
+BLSE/LAUST220000000000005,Employment in Louisiana
+BLSE/LAUST210000000000004,Unemployment in Kentucky
+BLSE/LAUST110000000000006,Labor force in District of Columbia
+BLSE/LAUST230000000000004,Unemployment in Maine
+BLSE/LAUST440000000000004,Unemployment in Rhode Island
+BLSE/LAUST450000000000004,Unemployment in South Carolina
+BLSE/LAUST240000000000003,Unemployment rate in Maryland
+BLSE/LAUST150000000000003,Unemployment rate in Hawaii
+BLSE/LAUST240000000000004,Unemployment in Maryland
+BLSE/LAUST150000000000005,Employment in Hawaii
+BLSE/LAUST380000000000004,Unemployment in North Dakota
+BLSE/LAUST460000000000003,Unemployment rate in South Dakota
+BLSE/LAUST460000000000005,Employment in South Dakota
+BLSE/LAUST240000000000006,Labor force in Maryland
+BLSE/LAUST260000000000003,Unemployment rate in Michigan
+BLSE/LAUST250000000000005,Employment in Massachusetts
+BLSE/LAUST260000000000004,Unemployment in Michigan
+BLSE/LAUST470000000000003,Unemployment rate in Tennessee
+BLSE/LAUST390000000000004,Unemployment in Ohio
+BLSE/LAUST170000000000004,Unemployment in Illinois
+BLSE/LAUST260000000000006,Labor force in Michigan
+BLSE/LAUST170000000000003,Unemployment rate in Illinois
+BLSE/LAUST400000000000003,Unemployment rate in Oklahoma
+BLSE/LAUST270000000000003,Unemployment rate in Minnesota
+BLSE/LAUST170000000000006,Labor force in Illinois
+BLSE/LAUST270000000000006,Labor force in Minnesota
+BLSE/LAUST190000000000004,Unemployment in Iowa
+BLSE/LAUST470000000000005,Employment in Tennessee
+BLSE/LAUST280000000000005,Employment in Mississippi
+BLSE/LAUST490000000000003,Unemployment rate in Utah
+BLSE/LAUST190000000000006,Labor force in Iowa
+BLSE/LAUST500000000000003,Unemployment rate in Vermont
+BLSE/LAUST420000000000005,Employment in Pennsylvania
+BLSE/LAUST290000000000004,Unemployment in Missouri
+BLSE/LAUST500000000000004,Unemployment in Vermont
+BLSE/LAUST300000000000003,Unemployment rate in Montana
+BLSE/LAUST440000000000005,Employment in Rhode Island
+BLSE/LAUST450000000000005,Employment in South Carolina
+BLSE/LAUST300000000000005,Employment in Montana
+BLSE/LAUST210000000000005,Employment in Kentucky
+BLSE/LAUST310000000000004,Unemployment in Nebraska
+BLSE/LAUST320000000000003,Unemployment rate in Nevada
+BLSE/LAUST220000000000006,Labor force in Louisiana
+BLSE/LAUST320000000000005,Employment in Nevada
+BLSE/LAUST530000000000006,Labor force in Washington
+BLSE/LAUST230000000000005,Employment in Maine
+BLSE/LAUST540000000000006,Labor force in West Virginia
+BLSE/LAUST330000000000005,Employment in New Hampshire
+BLSE/LAUST540000000000004,Unemployment in West Virginia
+BLSE/LAUST350000000000003,Unemployment rate in New Mexico
+BLSE/LAUST240000000000005,Employment in Maryland
+BLSE/LAUST550000000000006,Labor force in Wisconsin
+BLSE/LAUST350000000000004,Unemployment in New Mexico
+BLSE/LAUST250000000000004,Unemployment in Massachusetts
+BLSE/LAUST720000000000003,Unemployment rate in Puerto Rico
+BLSE/LAUST350000000000005,Employment in New Mexico
+BLSE/LAUST360000000000003,Unemployment rate in New York
+BLSE/LAUST260000000000005,Employment in Michigan
+BLSE/LAUST490000000000005,Employment in Utah
+BLSE/LAUST350000000000006,Labor force in New Mexico
+BLSE/LAUST360000000000006,Labor force in New York
+BLSE/LAUST280000000000004,Unemployment in Mississippi
+BLSE/LAUST370000000000004,Unemployment in North Carolina
+BLSE/LAUST530000000000003,Unemployment rate in Washington
+BLSE/LAUST370000000000005,Employment in North Carolina
+BLSE/LAUST290000000000003,Unemployment rate in Missouri
+BLSE/LAUST380000000000005,Employment in North Dakota
+BLSE/LAUST280000000000006,Labor force in Mississippi
+BLSE/LAUST290000000000006,Labor force in Missouri
+BLSE/LAUST390000000000003,Unemployment rate in Ohio
+BLSE/LAUST300000000000006,Labor force in Montana
+BLSE/LAUST400000000000005,Employment in Oklahoma
+BLSE/LAUST550000000000003,Unemployment rate in Wisconsin
+BLSE/LAUST400000000000006,Labor force in Oklahoma
+BLSE/LAUST320000000000004,Unemployment in Nevada
+BLSE/LAUST410000000000004,Unemployment in Oregon
+BLSE/LAUST560000000000004,Unemployment in Wyoming
+BLSE/LAUST410000000000006,Labor force in Oregon
+BLSE/LAUST560000000000006,Labor force in Wyoming
+BLSE/LAUST420000000000004,Unemployment in Pennsylvania
+BLSE/LAUST330000000000004,Unemployment in New Hampshire
+BLSE/LAUST440000000000003,Unemployment rate in Rhode Island
+BLSE/LAUST440000000000006,Labor force in Rhode Island
+BLSE/LAUST530000000000004,Unemployment in Washington
+BLSE/LAUST450000000000006,Labor force in South Carolina
+BLSE/LAUST340000000000003,Unemployment rate in New Jersey
+BLSE/LAUST360000000000005,Employment in New York
+BLSE/LAUST460000000000006,Labor force in South Dakota
+BLSE/LAUST470000000000004,Unemployment in Tennessee
+BLSE/LAUST480000000000003,Unemployment rate in Texas
+BLSE/LAUST480000000000004,Unemployment in Texas
+BLSE/LAUST370000000000003,Unemployment rate in North Carolina
+BLSE/LAUST370000000000006,Labor force in North Carolina
+BLSE/LAUST380000000000006,Labor force in North Dakota
+BLSE/LAUST390000000000006,Labor force in Ohio
+BLSE/LAUST490000000000004,Unemployment in Utah
+BLSE/LAUST400000000000004,Unemployment in Oklahoma
+BLSE/LAUST500000000000005,Employment in Vermont
+BLSE/LAUST510000000000003,Unemployment rate in Virginia
+BLSE/LAUST510000000000005,Employment in Virginia
+BLSE/LAUST510000000000006,Labor force in Virginia
+BLSE/LAUST510000000000004,Unemployment in Virginia
+BLSE/LAUST530000000000005,Employment in Washington
+BLSE/LAUST540000000000003,Unemployment rate in West Virginia
+BLSE/LAUST420000000000006,Labor force in Pennsylvania
+BLSE/LAUST450000000000003,Unemployment rate in South Carolina
+BLSE/LAUST550000000000004,Unemployment in Wisconsin
+BLSE/LAUST560000000000003,Unemployment rate in Wyoming
+BLSE/LAUST550000000000005,Employment in Wisconsin
+BLSE/LAUST460000000000004,Unemployment in South Dakota
+BLSE/LAUST560000000000005,Employment in Wyoming
+BLSE/LAUST720000000000005,Employment in Puerto Rico
+BLSE/LAUST720000000000006,Labor force in Puerto Rico
+BLSE/LAUST480000000000005,Employment in Texas
+BLSE/LAUST470000000000006,Labor force in Tennessee
+BLSE/LAUST480000000000006,Labor force in Texas
+BLSE/LAUST490000000000006,Labor force in Utah
+BLSE/LAUST500000000000006,Labor force in Vermont
+BLSE/LAUST540000000000005,Employment in West Virginia
+BLSE/LAUST720000000000004,Unemployment in Puerto Rico
+BLSE/SMS01000004100000001,"All Employees, In Thousands; Wholesale Trade - Alabama"
+BLSE/SMS02000004300000001,"All Employees, In Thousands; Transportation and Utilities - Alaska"
+BLSE/SMS04000000500000001,"All Employees, In Thousands; Total Private - Arizona"
+BLSE/SMS04000001000000001,"All Employees, In Thousands; Mining and Logging - Arizona"
+BLSE/SMS04000004300000001,"All Employees, In Thousands; Transportation and Utilities - Arizona"
+BLSE/SMS05000000600000001,"All Employees, In Thousands; Goods Producing - Arkansas"
+BLSE/SMS01000001000000001,"All Employees, In Thousands; Mining and Logging - Alabama"
+BLSE/SMS02000000700000001,"All Employees, In Thousands; Service-Providing - Alaska"
+BLSE/SMS06000000500000001,"All Employees, In Thousands; Total Private - California"
+BLSE/SMS06000003000000001,"All Employees, In Thousands; Manufacturing - California"
+BLSE/SMS04000003000000001,"All Employees, In Thousands; Manufacturing - Arizona"
+BLSE/SMS04000009000000001,"All Employees, In Thousands; Government - Arizona"
+BLSE/SMS05000000700000001,"All Employees, In Thousands; Service-Providing - Arkansas"
+BLSE/SMS08000004300000001,"All Employees, In Thousands; Transportation and Utilities - Colorado"
+BLSE/SMS05000003000000001,"All Employees, In Thousands; Manufacturing - Arkansas"
+BLSE/SMS08000003000000001,"All Employees, In Thousands; Manufacturing - Colorado"
+BLSE/SMS09000001000000001,"All Employees, In Thousands; Mining and Logging - Connecticut"
+BLSE/SMS09000003000000001,"All Employees, In Thousands; Manufacturing - Connecticut"
+BLSE/SMS06000003100000001,"All Employees, In Thousands; Durable Goods - California"
+BLSE/SMS06000001000000001,"All Employees, In Thousands; Mining and Logging - California"
+BLSE/SMS01000000500000001,"All Employees, In Thousands; Total Private - Alabama"
+BLSE/SMS01000000700000001,"All Employees, In Thousands; Service-Providing - Alabama"
+BLSE/SMS01000004300000001,"All Employees, In Thousands; Transportation and Utilities - Alabama"
+BLSE/SMS08000000600000001,"All Employees, In Thousands; Goods Producing - Colorado"
+BLSE/SMS11000000000000001,"All Employees, In Thousands; Total Nonfarm - District of Columbia"
+BLSE/SMS11000000700000001,"All Employees, In Thousands; Service-Providing - District of Columbia"
+BLSE/SMS02000000000000001,"All Employees, In Thousands; Total Nonfarm - Alaska"
+BLSE/SMS02000000500000001,"All Employees, In Thousands; Total Private - Alaska"
+BLSE/SMS02000000600000001,"All Employees, In Thousands; Goods Producing - Alaska"
+BLSE/SMS02000004100000001,"All Employees, In Thousands; Wholesale Trade - Alaska"
+BLSE/SMS09000003100000001,"All Employees, In Thousands; Durable Goods - Connecticut"
+BLSE/SMS08000009000000001,"All Employees, In Thousands; Government - Colorado"
+BLSE/SMS12000000600000001,"All Employees, In Thousands; Goods Producing - Florida"
+BLSE/SMS02000009000000001,"All Employees, In Thousands; Government - Alaska"
+BLSE/SMS04000000000000001,"All Employees, In Thousands; Total Nonfarm - Arizona"
+BLSE/SMS13000003100000001,"All Employees, In Thousands; Durable Goods - Georgia"
+BLSE/SMS04000000700000001,"All Employees, In Thousands; Service-Providing - Arizona"
+BLSE/SMS12000000700000001,"All Employees, In Thousands; Service-Providing - Florida"
+BLSE/SMS04000003100000001,"All Employees, In Thousands; Durable Goods - Arizona"
+BLSE/SMS04000004100000001,"All Employees, In Thousands; Wholesale Trade - Arizona"
+BLSE/SMS04000000600000001,"All Employees, In Thousands; Goods Producing - Arizona"
+BLSE/SMS05000000000000001,"All Employees, In Thousands; Total Nonfarm - Arkansas"
+BLSE/SMS10000000700000001,"All Employees, In Thousands; Service-Providing - Delaware"
+BLSE/SMS11000000500000001,"All Employees, In Thousands; Total Private - District of Columbia"
+BLSE/SMS05000003100000001,"All Employees, In Thousands; Durable Goods - Arkansas"
+BLSE/SMS01000000000000001,"All Employees, In Thousands; Total Nonfarm - Alabama"
+BLSE/SMS01000000600000001,"All Employees, In Thousands; Goods Producing - Alabama"
+BLSE/SMS13000004300000001,"All Employees, In Thousands; Transportation and Utilities - Georgia"
+BLSE/SMS01000009000000001,"All Employees, In Thousands; Government - Alabama"
+BLSE/SMS05000004100000001,"All Employees, In Thousands; Wholesale Trade - Arkansas"
+BLSE/SMS06000000000000001,"All Employees, In Thousands; Total Nonfarm - California"
+BLSE/SMS15000000500000001,"All Employees, In Thousands; Total Private - Hawaii"
+BLSE/SMS05000009000000001,"All Employees, In Thousands; Government - Arkansas"
+BLSE/SMS06000004300000001,"All Employees, In Thousands; Transportation and Utilities - California"
+BLSE/SMS06000000600000001,"All Employees, In Thousands; Goods Producing - California"
+BLSE/SMS08000000000000001,"All Employees, In Thousands; Total Nonfarm - Colorado"
+BLSE/SMS02000003000000001,"All Employees, In Thousands; Manufacturing - Alaska"
+BLSE/SMS06000004100000001,"All Employees, In Thousands; Wholesale Trade - California"
+BLSE/SMS16000000700000001,"All Employees, In Thousands; Service-Providing - Idaho"
+BLSE/SMS12000003100000001,"All Employees, In Thousands; Durable Goods - Florida"
+BLSE/SMS12000003000000001,"All Employees, In Thousands; Manufacturing - Florida"
+BLSE/SMS08000000500000001,"All Employees, In Thousands; Total Private - Colorado"
+BLSE/SMS12000004100000001,"All Employees, In Thousands; Wholesale Trade - Florida"
+BLSE/SMS02000001000000001,"All Employees, In Thousands; Mining and Logging - Alaska"
+BLSE/SMS13000000500000001,"All Employees, In Thousands; Total Private - Georgia"
+BLSE/SMS17000000500000001,"All Employees, In Thousands; Total Private - Illinois"
+BLSE/SMS16000004300000001,"All Employees, In Thousands; Transportation and Utilities - Idaho"
+BLSE/SMS09000000500000001,"All Employees, In Thousands; Total Private - Connecticut"
+BLSE/SMS08000004100000001,"All Employees, In Thousands; Wholesale Trade - Colorado"
+BLSE/SMS17000004300000001,"All Employees, In Thousands; Transportation and Utilities - Illinois"
+BLSE/SMS05000000500000001,"All Employees, In Thousands; Total Private - Arkansas"
+BLSE/SMS09000000700000001,"All Employees, In Thousands; Service-Providing - Connecticut"
+BLSE/SMS08000001000000001,"All Employees, In Thousands; Mining and Logging - Colorado"
+BLSE/SMS05000001000000001,"All Employees, In Thousands; Mining and Logging - Arkansas"
+BLSE/SMS13000009000000001,"All Employees, In Thousands; Government - Georgia"
+BLSE/SMS09000004100000001,"All Employees, In Thousands; Wholesale Trade - Connecticut"
+BLSE/SMS13000004100000001,"All Employees, In Thousands; Wholesale Trade - Georgia"
+BLSE/SMS09000004300000001,"All Employees, In Thousands; Transportation and Utilities - Connecticut"
+BLSE/SMS16000000500000001,"All Employees, In Thousands; Total Private - Idaho"
+BLSE/SMS18000001000000001,"All Employees, In Thousands; Mining and Logging - Indiana"
+BLSE/SMS05000004300000001,"All Employees, In Thousands; Transportation and Utilities - Arkansas"
+BLSE/SMS18000000600000001,"All Employees, In Thousands; Goods Producing - Indiana"
+BLSE/SMS06000000700000001,"All Employees, In Thousands; Service-Providing - California"
+BLSE/SMS18000004100000001,"All Employees, In Thousands; Wholesale Trade - Indiana"
+BLSE/SMS10000000000000001,"All Employees, In Thousands; Total Nonfarm - Delaware"
+BLSE/SMS06000009000000001,"All Employees, In Thousands; Government - California"
+BLSE/SMS10000000500000001,"All Employees, In Thousands; Total Private - Delaware"
+BLSE/SMS19000000700000001,"All Employees, In Thousands; Service-Providing - Iowa"
+BLSE/SMS10000000600000001,"All Employees, In Thousands; Goods Producing - Delaware"
+BLSE/SMS10000004100000001,"All Employees, In Thousands; Wholesale Trade - Delaware"
+BLSE/SMS10000009000000001,"All Employees, In Thousands; Government - Delaware"
+BLSE/SMS11000000600000001,"All Employees, In Thousands; Goods Producing - District of Columbia"
+BLSE/SMS11000004300000001,"All Employees, In Thousands; Transportation and Utilities - District of Columbia"
+BLSE/SMS19000003100000001,"All Employees, In Thousands; Durable Goods - Iowa"
+BLSE/SMS17000003100000001,"All Employees, In Thousands; Durable Goods - Illinois"
+BLSE/SMS17000000700000001,"All Employees, In Thousands; Service-Providing - Illinois"
+BLSE/SMS17000009000000001,"All Employees, In Thousands; Government - Illinois"
+BLSE/SMS08000000700000001,"All Employees, In Thousands; Service-Providing - Colorado"
+BLSE/SMS19000009000000001,"All Employees, In Thousands; Government - Iowa"
+BLSE/SMS12000009000000001,"All Employees, In Thousands; Government - Florida"
+BLSE/SMS08000003100000001,"All Employees, In Thousands; Durable Goods - Colorado"
+BLSE/SMS12000004300000001,"All Employees, In Thousands; Transportation and Utilities - Florida"
+BLSE/SMS13000000000000001,"All Employees, In Thousands; Total Nonfarm - Georgia"
+BLSE/SMS12000000000000001,"All Employees, In Thousands; Total Nonfarm - Florida"
+BLSE/SMS20000004300000001,"All Employees, In Thousands; Transportation and Utilities - Kansas"
+BLSE/SMS09000000600000001,"All Employees, In Thousands; Goods Producing - Connecticut"
+BLSE/SMS13000003000000001,"All Employees, In Thousands; Manufacturing - Georgia"
+BLSE/SMS13000000600000001,"All Employees, In Thousands; Goods Producing - Georgia"
+BLSE/SMS20000009000000001,"All Employees, In Thousands; Government - Kansas"
+BLSE/SMS13000001000000001,"All Employees, In Thousands; Mining and Logging - Georgia"
+BLSE/SMS09000000000000001,"All Employees, In Thousands; Total Nonfarm - Connecticut"
+BLSE/SMS18000003100000001,"All Employees, In Thousands; Durable Goods - Indiana"
+BLSE/SMS18000009000000001,"All Employees, In Thousands; Government - Indiana"
+BLSE/SMS21000001000000001,"All Employees, In Thousands; Mining and Logging - Kentucky"
+BLSE/SMS09000009000000001,"All Employees, In Thousands; Government - Connecticut"
+BLSE/SMS22000000700000001,"All Employees, In Thousands; Service-Providing - Louisiana"
+BLSE/SMS10000003000000001,"All Employees, In Thousands; Manufacturing - Delaware"
+BLSE/SMS10000004300000001,"All Employees, In Thousands; Transportation and Utilities - Delaware"
+BLSE/SMS19000004300000001,"All Employees, In Thousands; Transportation and Utilities - Iowa"
+BLSE/SMS15000000600000001,"All Employees, In Thousands; Goods Producing - Hawaii"
+BLSE/SMS15000000000000001,"All Employees, In Thousands; Total Nonfarm - Hawaii"
+BLSE/SMS22000004300000001,"All Employees, In Thousands; Transportation and Utilities - Louisiana"
+BLSE/SMS11000009000000001,"All Employees, In Thousands; Government - District of Columbia"
+BLSE/SMS15000000700000001,"All Employees, In Thousands; Service-Providing - Hawaii"
+BLSE/SMS15000003000000001,"All Employees, In Thousands; Manufacturing - Hawaii"
+BLSE/SMS22000000500000001,"All Employees, In Thousands; Total Private - Louisiana"
+BLSE/SMS16000000000000001,"All Employees, In Thousands; Total Nonfarm - Idaho"
+BLSE/SMS15000004100000001,"All Employees, In Thousands; Wholesale Trade - Hawaii"
+BLSE/SMS20000000000000001,"All Employees, In Thousands; Total Nonfarm - Kansas"
+BLSE/SMS16000003000000001,"All Employees, In Thousands; Manufacturing - Idaho"
+BLSE/SMS16000001000000001,"All Employees, In Thousands; Mining and Logging - Idaho"
+BLSE/SMS20000003100000001,"All Employees, In Thousands; Durable Goods - Kansas"
+BLSE/SMS23000000500000001,"All Employees, In Thousands; Total Private - Maine"
+BLSE/SMS21000000700000001,"All Employees, In Thousands; Service-Providing - Kentucky"
+BLSE/SMS12000000500000001,"All Employees, In Thousands; Total Private - Florida"
+BLSE/SMS23000004300000001,"All Employees, In Thousands; Transportation and Utilities - Maine"
+BLSE/SMS16000003100000001,"All Employees, In Thousands; Durable Goods - Idaho"
+BLSE/SMS24000000500000001,"All Employees, In Thousands; Total Private - Maryland"
+BLSE/SMS16000009000000001,"All Employees, In Thousands; Government - Idaho"
+BLSE/SMS13000000700000001,"All Employees, In Thousands; Service-Providing - Georgia"
+BLSE/SMS17000000000000001,"All Employees, In Thousands; Total Nonfarm - Illinois"
+BLSE/SMS24000003100000001,"All Employees, In Thousands; Durable Goods - Maryland"
+BLSE/SMS17000003000000001,"All Employees, In Thousands; Manufacturing - Illinois"
+BLSE/SMS18000000000000001,"All Employees, In Thousands; Total Nonfarm - Indiana"
+BLSE/SMS18000000500000001,"All Employees, In Thousands; Total Private - Indiana"
+BLSE/SMS22000000600000001,"All Employees, In Thousands; Goods Producing - Louisiana"
+BLSE/SMS22000003100000001,"All Employees, In Thousands; Durable Goods - Louisiana"
+BLSE/SMS23000000000000001,"All Employees, In Thousands; Total Nonfarm - Maine"
+BLSE/SMS25000000000000001,"All Employees, In Thousands; Total Nonfarm - Massachusetts"
+BLSE/SMS25000000600000001,"All Employees, In Thousands; Goods Producing - Massachusetts"
+BLSE/SMS25000001000000001,"All Employees, In Thousands; Mining and Logging - Massachusetts"
+BLSE/SMS18000000700000001,"All Employees, In Thousands; Service-Providing - Indiana"
+BLSE/SMS15000009000000001,"All Employees, In Thousands; Government - Hawaii"
+BLSE/SMS26000000700000001,"All Employees, In Thousands; Service-Providing - Michigan"
+BLSE/SMS18000004300000001,"All Employees, In Thousands; Transportation and Utilities - Indiana"
+BLSE/SMS23000000700000001,"All Employees, In Thousands; Service-Providing - Maine"
+BLSE/SMS16000000600000001,"All Employees, In Thousands; Goods Producing - Idaho"
+BLSE/SMS19000000000000001,"All Employees, In Thousands; Total Nonfarm - Iowa"
+BLSE/SMS19000001000000001,"All Employees, In Thousands; Mining and Logging - Iowa"
+BLSE/SMS23000009000000001,"All Employees, In Thousands; Government - Maine"
+BLSE/SMS19000004100000001,"All Employees, In Thousands; Wholesale Trade - Iowa"
+BLSE/SMS24000003000000001,"All Employees, In Thousands; Manufacturing - Maryland"
+BLSE/SMS19000000600000001,"All Employees, In Thousands; Goods Producing - Iowa"
+BLSE/SMS26000004100000001,"All Employees, In Thousands; Wholesale Trade - Michigan"
+BLSE/SMS16000004100000001,"All Employees, In Thousands; Wholesale Trade - Idaho"
+BLSE/SMS27000000500000001,"All Employees, In Thousands; Total Private - Minnesota"
+BLSE/SMS20000000500000001,"All Employees, In Thousands; Total Private - Kansas"
+BLSE/SMS27000000600000001,"All Employees, In Thousands; Goods Producing - Minnesota"
+BLSE/SMS17000001000000001,"All Employees, In Thousands; Mining and Logging - Illinois"
+BLSE/SMS27000003000000001,"All Employees, In Thousands; Manufacturing - Minnesota"
+BLSE/SMS20000000700000001,"All Employees, In Thousands; Service-Providing - Kansas"
+BLSE/SMS17000004100000001,"All Employees, In Thousands; Wholesale Trade - Illinois"
+BLSE/SMS17000000600000001,"All Employees, In Thousands; Goods Producing - Illinois"
+BLSE/SMS20000003000000001,"All Employees, In Thousands; Manufacturing - Kansas"
+BLSE/SMS20000004100000001,"All Employees, In Thousands; Wholesale Trade - Kansas"
+BLSE/SMS28000000000000001,"All Employees, In Thousands; Total Nonfarm - Mississippi"
+BLSE/SMS21000000000000001,"All Employees, In Thousands; Total Nonfarm - Kentucky"
+BLSE/SMS25000000500000001,"All Employees, In Thousands; Total Private - Massachusetts"
+BLSE/SMS21000000600000001,"All Employees, In Thousands; Goods Producing - Kentucky"
+BLSE/SMS20000000600000001,"All Employees, In Thousands; Goods Producing - Kansas"
+BLSE/SMS25000004100000001,"All Employees, In Thousands; Wholesale Trade - Massachusetts"
+BLSE/SMS25000004300000001,"All Employees, In Thousands; Transportation and Utilities - Massachusetts"
+BLSE/SMS26000003000000001,"All Employees, In Thousands; Manufacturing - Michigan"
+BLSE/SMS29000000500000001,"All Employees, In Thousands; Total Private - Missouri"
+BLSE/SMS18000003000000001,"All Employees, In Thousands; Manufacturing - Indiana"
+BLSE/SMS21000004100000001,"All Employees, In Thousands; Wholesale Trade - Kentucky"
+BLSE/SMS26000003100000001,"All Employees, In Thousands; Durable Goods - Michigan"
+BLSE/SMS29000001000000001,"All Employees, In Thousands; Mining and Logging - Missouri"
+BLSE/SMS21000003000000001,"All Employees, In Thousands; Manufacturing - Kentucky"
+BLSE/SMS19000000500000001,"All Employees, In Thousands; Total Private - Iowa"
+BLSE/SMS21000009000000001,"All Employees, In Thousands; Government - Kentucky"
+BLSE/SMS22000001000000001,"All Employees, In Thousands; Mining and Logging - Louisiana"
+BLSE/SMS19000003000000001,"All Employees, In Thousands; Manufacturing - Iowa"
+BLSE/SMS22000003000000001,"All Employees, In Thousands; Manufacturing - Louisiana"
+BLSE/SMS29000009000000001,"All Employees, In Thousands; Government - Missouri"
+BLSE/SMS22000009000000001,"All Employees, In Thousands; Government - Louisiana"
+BLSE/SMS27000004100000001,"All Employees, In Thousands; Wholesale Trade - Minnesota"
+BLSE/SMS23000000600000001,"All Employees, In Thousands; Goods Producing - Maine"
+BLSE/SMS30000000700000001,"All Employees, In Thousands; Service-Providing - Montana"
+BLSE/SMS28000000700000001,"All Employees, In Thousands; Service-Providing - Mississippi"
+BLSE/SMS23000001000000001,"All Employees, In Thousands; Mining and Logging - Maine"
+BLSE/SMS23000003000000001,"All Employees, In Thousands; Manufacturing - Maine"
+BLSE/SMS20000001000000001,"All Employees, In Thousands; Mining and Logging - Kansas"
+BLSE/SMS23000003100000001,"All Employees, In Thousands; Durable Goods - Maine"
+BLSE/SMS24000000600000001,"All Employees, In Thousands; Goods Producing - Maryland"
+BLSE/SMS24000000700000001,"All Employees, In Thousands; Service-Providing - Maryland"
+BLSE/SMS31000003000000001,"All Employees, In Thousands; Manufacturing - Nebraska"
+BLSE/SMS21000000500000001,"All Employees, In Thousands; Total Private - Kentucky"
+BLSE/SMS24000004100000001,"All Employees, In Thousands; Wholesale Trade - Maryland"
+BLSE/SMS28000004300000001,"All Employees, In Thousands; Transportation and Utilities - Mississippi"
+BLSE/SMS24000009000000001,"All Employees, In Thousands; Government - Maryland"
+BLSE/SMS30000000000000001,"All Employees, In Thousands; Total Nonfarm - Montana"
+BLSE/SMS32000003100000001,"All Employees, In Thousands; Durable Goods - Nevada"
+BLSE/SMS21000004300000001,"All Employees, In Thousands; Transportation and Utilities - Kentucky"
+BLSE/SMS30000000600000001,"All Employees, In Thousands; Goods Producing - Montana"
+BLSE/SMS25000000700000001,"All Employees, In Thousands; Service-Providing - Massachusetts"
+BLSE/SMS25000003000000001,"All Employees, In Thousands; Manufacturing - Massachusetts"
+BLSE/SMS26000000600000001,"All Employees, In Thousands; Goods Producing - Michigan"
+BLSE/SMS26000000500000001,"All Employees, In Thousands; Total Private - Michigan"
+BLSE/SMS26000000000000001,"All Employees, In Thousands; Total Nonfarm - Michigan"
+BLSE/SMS30000001000000001,"All Employees, In Thousands; Mining and Logging - Montana"
+BLSE/SMS22000000000000001,"All Employees, In Thousands; Total Nonfarm - Louisiana"
+BLSE/SMS31000000500000001,"All Employees, In Thousands; Total Private - Nebraska"
+BLSE/SMS31000004100000001,"All Employees, In Thousands; Wholesale Trade - Nebraska"
+BLSE/SMS34000000500000001,"All Employees, In Thousands; Total Private - New Jersey"
+BLSE/SMS23000004100000001,"All Employees, In Thousands; Wholesale Trade - Maine"
+BLSE/SMS26000009000000001,"All Employees, In Thousands; Government - Michigan"
+BLSE/SMS24000000000000001,"All Employees, In Thousands; Total Nonfarm - Maryland"
+BLSE/SMS27000000000000001,"All Employees, In Thousands; Total Nonfarm - Minnesota"
+BLSE/SMS34000004100000001,"All Employees, In Thousands; Wholesale Trade - New Jersey"
+BLSE/SMS27000000700000001,"All Employees, In Thousands; Service-Providing - Minnesota"
+BLSE/SMS32000000700000001,"All Employees, In Thousands; Service-Providing - Nevada"
+BLSE/SMS27000003100000001,"All Employees, In Thousands; Durable Goods - Minnesota"
+BLSE/SMS34000000700000001,"All Employees, In Thousands; Service-Providing - New Jersey"
+BLSE/SMS27000004300000001,"All Employees, In Thousands; Transportation and Utilities - Minnesota"
+BLSE/SMS24000004300000001,"All Employees, In Thousands; Transportation and Utilities - Maryland"
+BLSE/SMS32000004300000001,"All Employees, In Thousands; Transportation and Utilities - Nevada"
+BLSE/SMS28000000500000001,"All Employees, In Thousands; Total Private - Mississippi"
+BLSE/SMS32000009000000001,"All Employees, In Thousands; Government - Nevada"
+BLSE/SMS28000000600000001,"All Employees, In Thousands; Goods Producing - Mississippi"
+BLSE/SMS33000001000000001,"All Employees, In Thousands; Mining and Logging - New Hampshire"
+BLSE/SMS28000001000000001,"All Employees, In Thousands; Mining and Logging - Mississippi"
+BLSE/SMS25000003100000001,"All Employees, In Thousands; Durable Goods - Massachusetts"
+BLSE/SMS28000003000000001,"All Employees, In Thousands; Manufacturing - Mississippi"
+BLSE/SMS29000000000000001,"All Employees, In Thousands; Total Nonfarm - Missouri"
+BLSE/SMS25000009000000001,"All Employees, In Thousands; Government - Massachusetts"
+BLSE/SMS29000000600000001,"All Employees, In Thousands; Goods Producing - Missouri"
+BLSE/SMS28000003100000001,"All Employees, In Thousands; Durable Goods - Mississippi"
+BLSE/SMS29000000700000001,"All Employees, In Thousands; Service-Providing - Missouri"
+BLSE/SMS29000003100000001,"All Employees, In Thousands; Durable Goods - Missouri"
+BLSE/SMS34000003000000001,"All Employees, In Thousands; Manufacturing - New Jersey"
+BLSE/SMS26000001000000001,"All Employees, In Thousands; Mining and Logging - Michigan"
+BLSE/SMS36000004100000001,"All Employees, In Thousands; Wholesale Trade - New York"
+BLSE/SMS29000004300000001,"All Employees, In Thousands; Transportation and Utilities - Missouri"
+BLSE/SMS34000003100000001,"All Employees, In Thousands; Durable Goods - New Jersey"
+BLSE/SMS37000001000000001,"All Employees, In Thousands; Mining and Logging - North Carolina"
+BLSE/SMS34000000600000001,"All Employees, In Thousands; Goods Producing - New Jersey"
+BLSE/SMS30000000500000001,"All Employees, In Thousands; Total Private - Montana"
+BLSE/SMS26000004300000001,"All Employees, In Thousands; Transportation and Utilities - Michigan"
+BLSE/SMS34000004300000001,"All Employees, In Thousands; Transportation and Utilities - New Jersey"
+BLSE/SMS30000004100000001,"All Employees, In Thousands; Wholesale Trade - Montana"
+BLSE/SMS27000001000000001,"All Employees, In Thousands; Mining and Logging - Minnesota"
+BLSE/SMS30000009000000001,"All Employees, In Thousands; Government - Montana"
+BLSE/SMS35000009000000001,"All Employees, In Thousands; Government - New Mexico"
+BLSE/SMS31000000600000001,"All Employees, In Thousands; Goods Producing - Nebraska"
+BLSE/SMS27000009000000001,"All Employees, In Thousands; Government - Minnesota"
+BLSE/SMS31000000700000001,"All Employees, In Thousands; Service-Providing - Nebraska"
+BLSE/SMS31000003100000001,"All Employees, In Thousands; Durable Goods - Nebraska"
+BLSE/SMS36000001000000001,"All Employees, In Thousands; Mining and Logging - New York"
+BLSE/SMS38000000000000001,"All Employees, In Thousands; Total Nonfarm - North Dakota"
+BLSE/SMS38000004300000001,"All Employees, In Thousands; Transportation and Utilities - North Dakota"
+BLSE/SMS31000009000000001,"All Employees, In Thousands; Government - Nebraska"
+BLSE/SMS36000003000000001,"All Employees, In Thousands; Manufacturing - New York"
+BLSE/SMS39000000600000001,"All Employees, In Thousands; Goods Producing - Ohio"
+BLSE/SMS37000000600000001,"All Employees, In Thousands; Goods Producing - North Carolina"
+BLSE/SMS32000000500000001,"All Employees, In Thousands; Total Private - Nevada"
+BLSE/SMS28000009000000001,"All Employees, In Thousands; Government - Mississippi"
+BLSE/SMS39000004100000001,"All Employees, In Thousands; Wholesale Trade - Ohio"
+BLSE/SMS32000001000000001,"All Employees, In Thousands; Mining and Logging - Nevada"
+BLSE/SMS37000004100000001,"All Employees, In Thousands; Wholesale Trade - North Carolina"
+BLSE/SMS33000000000000001,"All Employees, In Thousands; Total Nonfarm - New Hampshire"
+BLSE/SMS29000003000000001,"All Employees, In Thousands; Manufacturing - Missouri"
+BLSE/SMS32000004100000001,"All Employees, In Thousands; Wholesale Trade - Nevada"
+BLSE/SMS29000004100000001,"All Employees, In Thousands; Wholesale Trade - Missouri"
+BLSE/SMS33000000600000001,"All Employees, In Thousands; Goods Producing - New Hampshire"
+BLSE/SMS40000000000000001,"All Employees, In Thousands; Total Nonfarm - Oklahoma"
+BLSE/SMS33000000500000001,"All Employees, In Thousands; Total Private - New Hampshire"
+BLSE/SMS37000009000000001,"All Employees, In Thousands; Government - North Carolina"
+BLSE/SMS40000004300000001,"All Employees, In Thousands; Transportation and Utilities - Oklahoma"
+BLSE/SMS33000003000000001,"All Employees, In Thousands; Manufacturing - New Hampshire"
+BLSE/SMS33000003100000001,"All Employees, In Thousands; Durable Goods - New Hampshire"
+BLSE/SMS38000003000000001,"All Employees, In Thousands; Manufacturing - North Dakota"
+BLSE/SMS33000004300000001,"All Employees, In Thousands; Transportation and Utilities - New Hampshire"
+BLSE/SMS30000003100000001,"All Employees, In Thousands; Durable Goods - Montana"
+BLSE/SMS30000003000000001,"All Employees, In Thousands; Manufacturing - Montana"
+BLSE/SMS33000009000000001,"All Employees, In Thousands; Government - New Hampshire"
+BLSE/SMS30000004300000001,"All Employees, In Thousands; Transportation and Utilities - Montana"
+BLSE/SMS41000009000000001,"All Employees, In Thousands; Government - Oregon"
+BLSE/SMS39000001000000001,"All Employees, In Thousands; Mining and Logging - Ohio"
+BLSE/SMS34000000000000001,"All Employees, In Thousands; Total Nonfarm - New Jersey"
+BLSE/SMS31000000000000001,"All Employees, In Thousands; Total Nonfarm - Nebraska"
+BLSE/SMS34000009000000001,"All Employees, In Thousands; Government - New Jersey"
+BLSE/SMS35000000000000001,"All Employees, In Thousands; Total Nonfarm - New Mexico"
+BLSE/SMS35000000600000001,"All Employees, In Thousands; Goods Producing - New Mexico"
+BLSE/SMS39000000700000001,"All Employees, In Thousands; Service-Providing - Ohio"
+BLSE/SMS32000000000000001,"All Employees, In Thousands; Total Nonfarm - Nevada"
+BLSE/SMS35000000700000001,"All Employees, In Thousands; Service-Providing - New Mexico"
+BLSE/SMS42000004100000001,"All Employees, In Thousands; Wholesale Trade - Pennsylvania"
+BLSE/SMS35000003000000001,"All Employees, In Thousands; Manufacturing - New Mexico"
+BLSE/SMS40000001000000001,"All Employees, In Thousands; Mining and Logging - Oklahoma"
+BLSE/SMS32000003000000001,"All Employees, In Thousands; Manufacturing - Nevada"
+BLSE/SMS41000000000000001,"All Employees, In Thousands; Total Nonfarm - Oregon"
+BLSE/SMS35000004300000001,"All Employees, In Thousands; Transportation and Utilities - New Mexico"
+BLSE/SMS32000000600000001,"All Employees, In Thousands; Goods Producing - Nevada"
+BLSE/SMS44000000700000001,"All Employees, In Thousands; Service-Providing - Rhode Island"
+BLSE/SMS36000000000000001,"All Employees, In Thousands; Total Nonfarm - New York"
+BLSE/SMS41000000600000001,"All Employees, In Thousands; Goods Producing - Oregon"
+BLSE/SMS44000004100000001,"All Employees, In Thousands; Wholesale Trade - Rhode Island"
+BLSE/SMS44000009000000001,"All Employees, In Thousands; Government - Rhode Island"
+BLSE/SMS41000000700000001,"All Employees, In Thousands; Service-Providing - Oregon"
+BLSE/SMS33000000700000001,"All Employees, In Thousands; Service-Providing - New Hampshire"
+BLSE/SMS36000000600000001,"All Employees, In Thousands; Goods Producing - New York"
+BLSE/SMS41000004100000001,"All Employees, In Thousands; Wholesale Trade - Oregon"
+BLSE/SMS36000009000000001,"All Employees, In Thousands; Government - New York"
+BLSE/SMS42000000000000001,"All Employees, In Thousands; Total Nonfarm - Pennsylvania"
+BLSE/SMS37000000500000001,"All Employees, In Thousands; Total Private - North Carolina"
+BLSE/SMS45000000600000001,"All Employees, In Thousands; Goods Producing - South Carolina"
+BLSE/SMS33000004100000001,"All Employees, In Thousands; Wholesale Trade - New Hampshire"
+BLSE/SMS45000003000000001,"All Employees, In Thousands; Manufacturing - South Carolina"
+BLSE/SMS37000003100000001,"All Employees, In Thousands; Durable Goods - North Carolina"
+BLSE/SMS42000000600000001,"All Employees, In Thousands; Goods Producing - Pennsylvania"
+BLSE/SMS46000000500000001,"All Employees, In Thousands; Total Private - South Dakota"
+BLSE/SMS46000000600000001,"All Employees, In Thousands; Goods Producing - South Dakota"
+BLSE/SMS34000001000000001,"All Employees, In Thousands; Mining and Logging - New Jersey"
+BLSE/SMS46000009000000001,"All Employees, In Thousands; Government - South Dakota"
+BLSE/SMS38000000500000001,"All Employees, In Thousands; Total Private - North Dakota"
+BLSE/SMS35000000500000001,"All Employees, In Thousands; Total Private - New Mexico"
+BLSE/SMS38000000700000001,"All Employees, In Thousands; Service-Providing - North Dakota"
+BLSE/SMS44000001000000001,"All Employees, In Thousands; Mining and Logging - Rhode Island"
+BLSE/SMS38000001000000001,"All Employees, In Thousands; Mining and Logging - North Dakota"
+BLSE/SMS47000003100000001,"All Employees, In Thousands; Durable Goods - Tennessee"
+BLSE/SMS38000004100000001,"All Employees, In Thousands; Wholesale Trade - North Dakota"
+BLSE/SMS35000001000000001,"All Employees, In Thousands; Mining and Logging - New Mexico"
+BLSE/SMS47000004100000001,"All Employees, In Thousands; Wholesale Trade - Tennessee"
+BLSE/SMS38000009000000001,"All Employees, In Thousands; Government - North Dakota"
+BLSE/SMS39000000000000001,"All Employees, In Thousands; Total Nonfarm - Ohio"
+BLSE/SMS35000004100000001,"All Employees, In Thousands; Wholesale Trade - New Mexico"
+BLSE/SMS45000000500000001,"All Employees, In Thousands; Total Private - South Carolina"
+BLSE/SMS48000000500000001,"All Employees, In Thousands; Total Private - Texas"
+BLSE/SMS48000000600000001,"All Employees, In Thousands; Goods Producing - Texas"
+BLSE/SMS36000000700000001,"All Employees, In Thousands; Service-Providing - New York"
+BLSE/SMS39000003100000001,"All Employees, In Thousands; Durable Goods - Ohio"
+BLSE/SMS46000000000000001,"All Employees, In Thousands; Total Nonfarm - South Dakota"
+BLSE/SMS36000000500000001,"All Employees, In Thousands; Total Private - New York"
+BLSE/SMS36000003100000001,"All Employees, In Thousands; Durable Goods - New York"
+BLSE/SMS36000004300000001,"All Employees, In Thousands; Transportation and Utilities - New York"
+BLSE/SMS37000000000000001,"All Employees, In Thousands; Total Nonfarm - North Carolina"
+BLSE/SMS46000003000000001,"All Employees, In Thousands; Manufacturing - South Dakota"
+BLSE/SMS40000000700000001,"All Employees, In Thousands; Service-Providing - Oklahoma"
+BLSE/SMS41000000500000001,"All Employees, In Thousands; Total Private - Oregon"
+BLSE/SMS37000000700000001,"All Employees, In Thousands; Service-Providing - North Carolina"
+BLSE/SMS40000009000000001,"All Employees, In Thousands; Government - Oklahoma"
+BLSE/SMS49000000600000001,"All Employees, In Thousands; Goods Producing - Utah"
+BLSE/SMS37000003000000001,"All Employees, In Thousands; Manufacturing - North Carolina"
+BLSE/SMS49000004100000001,"All Employees, In Thousands; Wholesale Trade - Utah"
+BLSE/SMS47000000700000001,"All Employees, In Thousands; Service-Providing - Tennessee"
+BLSE/SMS49000004300000001,"All Employees, In Thousands; Transportation and Utilities - Utah"
+BLSE/SMS41000003000000001,"All Employees, In Thousands; Manufacturing - Oregon"
+BLSE/SMS41000003100000001,"All Employees, In Thousands; Durable Goods - Oregon"
+BLSE/SMS37000004300000001,"All Employees, In Thousands; Transportation and Utilities - North Carolina"
+BLSE/SMS39000009000000001,"All Employees, In Thousands; Government - Ohio"
+BLSE/SMS38000000600000001,"All Employees, In Thousands; Goods Producing - North Dakota"
+BLSE/SMS42000000500000001,"All Employees, In Thousands; Total Private - Pennsylvania"
+BLSE/SMS50000003000000001,"All Employees, In Thousands; Manufacturing - Vermont"
+BLSE/SMS48000001000000001,"All Employees, In Thousands; Mining and Logging - Texas"
+BLSE/SMS42000001000000001,"All Employees, In Thousands; Mining and Logging - Pennsylvania"
+BLSE/SMS38000003100000001,"All Employees, In Thousands; Durable Goods - North Dakota"
+BLSE/SMS51000000000000001,"All Employees, In Thousands; Total Nonfarm - Virginia"
+BLSE/SMS39000000500000001,"All Employees, In Thousands; Total Private - Ohio"
+BLSE/SMS42000003100000001,"All Employees, In Thousands; Durable Goods - Pennsylvania"
+BLSE/SMS51000009000000001,"All Employees, In Thousands; Government - Virginia"
+BLSE/SMS51000004300000001,"All Employees, In Thousands; Transportation and Utilities - Virginia"
+BLSE/SMS42000004300000001,"All Employees, In Thousands; Transportation and Utilities - Pennsylvania"
+BLSE/SMS44000000600000001,"All Employees, In Thousands; Goods Producing - Rhode Island"
+BLSE/SMS44000000000000001,"All Employees, In Thousands; Total Nonfarm - Rhode Island"
+BLSE/SMS39000003000000001,"All Employees, In Thousands; Manufacturing - Ohio"
+BLSE/SMS53000000000000001,"All Employees, In Thousands; Total Nonfarm - Washington"
+BLSE/SMS49000000700000001,"All Employees, In Thousands; Service-Providing - Utah"
+BLSE/SMS44000003100000001,"All Employees, In Thousands; Durable Goods - Rhode Island"
+BLSE/SMS39000004300000001,"All Employees, In Thousands; Transportation and Utilities - Ohio"
+BLSE/SMS49000003100000001,"All Employees, In Thousands; Durable Goods - Utah"
+BLSE/SMS49000009000000001,"All Employees, In Thousands; Government - Utah"
+BLSE/SMS40000000500000001,"All Employees, In Thousands; Total Private - Oklahoma"
+BLSE/SMS40000000600000001,"All Employees, In Thousands; Goods Producing - Oklahoma"
+BLSE/SMS45000000000000001,"All Employees, In Thousands; Total Nonfarm - South Carolina"
+BLSE/SMS53000001000000001,"All Employees, In Thousands; Mining and Logging - Washington"
+BLSE/SMS53000004100000001,"All Employees, In Thousands; Wholesale Trade - Washington"
+BLSE/SMS40000004100000001,"All Employees, In Thousands; Wholesale Trade - Oklahoma"
+BLSE/SMS41000001000000001,"All Employees, In Thousands; Mining and Logging - Oregon"
+BLSE/SMS50000004300000001,"All Employees, In Thousands; Transportation and Utilities - Vermont"
+BLSE/SMS53000003100000001,"All Employees, In Thousands; Durable Goods - Washington"
+BLSE/SMS45000004300000001,"All Employees, In Thousands; Transportation and Utilities - South Carolina"
+BLSE/SMS54000003100000001,"All Employees, In Thousands; Durable Goods - West Virginia"
+BLSE/SMS41000004300000001,"All Employees, In Thousands; Transportation and Utilities - Oregon"
+BLSE/SMS46000000700000001,"All Employees, In Thousands; Service-Providing - South Dakota"
+BLSE/SMS46000004100000001,"All Employees, In Thousands; Wholesale Trade - South Dakota"
+BLSE/SMS47000000000000001,"All Employees, In Thousands; Total Nonfarm - Tennessee"
+BLSE/SMS42000000700000001,"All Employees, In Thousands; Service-Providing - Pennsylvania"
+BLSE/SMS42000003000000001,"All Employees, In Thousands; Manufacturing - Pennsylvania"
+BLSE/SMS55000000500000001,"All Employees, In Thousands; Total Private - Wisconsin"
+BLSE/SMS55000000700000001,"All Employees, In Thousands; Service-Providing - Wisconsin"
+BLSE/SMS47000003000000001,"All Employees, In Thousands; Manufacturing - Tennessee"
+BLSE/SMS55000004100000001,"All Employees, In Thousands; Wholesale Trade - Wisconsin"
+BLSE/SMS47000004300000001,"All Employees, In Thousands; Transportation and Utilities - Tennessee"
+BLSE/SMS42000009000000001,"All Employees, In Thousands; Government - Pennsylvania"
+BLSE/SMS44000000500000001,"All Employees, In Thousands; Total Private - Rhode Island"
+BLSE/SMS53000003000000001,"All Employees, In Thousands; Manufacturing - Washington"
+BLSE/SMS48000000000000001,"All Employees, In Thousands; Total Nonfarm - Texas"
+BLSE/SMS44000003000000001,"All Employees, In Thousands; Manufacturing - Rhode Island"
+BLSE/SMS48000004100000001,"All Employees, In Thousands; Wholesale Trade - Texas"
+BLSE/SMS48000003000000001,"All Employees, In Thousands; Manufacturing - Texas"
+BLSE/SMS48000004300000001,"All Employees, In Thousands; Transportation and Utilities - Texas"
+BLSE/SMS44000004300000001,"All Employees, In Thousands; Transportation and Utilities - Rhode Island"
+BLSE/SMS56000000600000001,"All Employees, In Thousands; Goods Producing - Wyoming"
+BLSE/SMS50000000500000001,"All Employees, In Thousands; Total Private - Vermont"
+BLSE/SMS56000009000000001,"All Employees, In Thousands; Government - Wyoming"
+BLSE/SMS49000000000000001,"All Employees, In Thousands; Total Nonfarm - Utah"
+BLSE/SMS72000000700000001,"All Employees, In Thousands; Service-Providing - Puerto Rico"
+BLSE/SMS45000000700000001,"All Employees, In Thousands; Service-Providing - South Carolina"
+BLSE/SMS54000004300000001,"All Employees, In Thousands; Transportation and Utilities - West Virginia"
+BLSE/SMS49000000500000001,"All Employees, In Thousands; Total Private - Utah"
+BLSE/SMS45000009000000001,"All Employees, In Thousands; Government - South Carolina"
+BLSE/SMS49000001000000001,"All Employees, In Thousands; Mining and Logging - Utah"
+BLSE/SMS49000003000000001,"All Employees, In Thousands; Manufacturing - Utah"
+BLSE/SMS78000000500000001,"All Employees, In Thousands; Total Private - Virgin Islands"
+BLSE/SMS50000000000000001,"All Employees, In Thousands; Total Nonfarm - Vermont"
+BLSE/SMS50000001000000001,"All Employees, In Thousands; Mining and Logging - Vermont"
+BLSE/SMS46000004300000001,"All Employees, In Thousands; Transportation and Utilities - South Dakota"
+BLSE/SMS50000000700000001,"All Employees, In Thousands; Service-Providing - Vermont"
+BLSE/SMS47000000500000001,"All Employees, In Thousands; Total Private - Tennessee"
+BLSE/SMS78000000700000001,"All Employees, In Thousands; Service-Providing - Virgin Islands"
+BLSE/SMU01000000000000001,"All Employees, In Thousands; Total Nonfarm - Alabama"
+BLSE/SMS50000003100000001,"All Employees, In Thousands; Durable Goods - Vermont"
+BLSE/SMS50000004100000001,"All Employees, In Thousands; Wholesale Trade - Vermont"
+BLSE/SMS47000000600000001,"All Employees, In Thousands; Goods Producing - Tennessee"
+BLSE/SMU01000004100000001,"All Employees, In Thousands; Wholesale Trade - Alabama"
+BLSE/SMS51000000600000001,"All Employees, In Thousands; Goods Producing - Virginia"
+BLSE/SMS47000009000000001,"All Employees, In Thousands; Government - Tennessee"
+BLSE/SMS51000004100000001,"All Employees, In Thousands; Wholesale Trade - Virginia"
+BLSE/SMS56000004300000001,"All Employees, In Thousands; Transportation and Utilities - Wyoming"
+BLSE/SMS51000000700000001,"All Employees, In Thousands; Service-Providing - Virginia"
+BLSE/SMS50000009000000001,"All Employees, In Thousands; Government - Vermont"
+BLSE/SMS48000000700000001,"All Employees, In Thousands; Service-Providing - Texas"
+BLSE/SMS51000003100000001,"All Employees, In Thousands; Durable Goods - Virginia"
+BLSE/SMS48000003100000001,"All Employees, In Thousands; Durable Goods - Texas"
+BLSE/SMS51000003000000001,"All Employees, In Thousands; Manufacturing - Virginia"
+BLSE/SMS56000003100000001,"All Employees, In Thousands; Durable Goods - Wyoming"
+BLSE/SMS48000009000000001,"All Employees, In Thousands; Government - Texas"
+BLSE/SMS53000000600000001,"All Employees, In Thousands; Goods Producing - Washington"
+BLSE/SMU04000000500000001,"All Employees, In Thousands; Total Private - Arizona"
+BLSE/SMU04000000600000001,"All Employees, In Thousands; Goods Producing - Arizona"
+BLSE/SMS53000000700000001,"All Employees, In Thousands; Service-Providing - Washington"
+BLSE/SMS78000000600000001,"All Employees, In Thousands; Goods Producing - Virgin Islands"
+BLSE/SMS53000000500000001,"All Employees, In Thousands; Total Private - Washington"
+BLSE/SMS78000009000000001,"All Employees, In Thousands; Government - Virgin Islands"
+BLSE/SMS54000000500000001,"All Employees, In Thousands; Total Private - West Virginia"
+BLSE/SMS54000000600000001,"All Employees, In Thousands; Goods Producing - West Virginia"
+BLSE/SMS50000000600000001,"All Employees, In Thousands; Goods Producing - Vermont"
+BLSE/SMU01000003100000001,"All Employees, In Thousands; Durable Goods - Alabama"
+BLSE/SMS54000001000000001,"All Employees, In Thousands; Mining and Logging - West Virginia"
+BLSE/SMS54000003000000001,"All Employees, In Thousands; Manufacturing - West Virginia"
+BLSE/SMU04000003100000001,"All Employees, In Thousands; Durable Goods - Arizona"
+BLSE/SMU01000005051700001,"All Employees, In Thousands; Telecommunications - Alabama"
+BLSE/SMU04000004348100001,"All Employees, In Thousands; Air Transportation - Arizona"
+BLSE/SMS54000000700000001,"All Employees, In Thousands; Service-Providing - West Virginia"
+BLSE/SMU05000000700000001,"All Employees, In Thousands; Service-Providing - Arkansas"
+BLSE/SMU02000003000000001,"All Employees, In Thousands; Manufacturing - Alaska"
+BLSE/SMS54000004100000001,"All Employees, In Thousands; Wholesale Trade - West Virginia"
+BLSE/SMU05000003100000001,"All Employees, In Thousands; Durable Goods - Arkansas"
+BLSE/SMS54000009000000001,"All Employees, In Thousands; Government - West Virginia"
+BLSE/SMS55000000000000001,"All Employees, In Thousands; Total Nonfarm - Wisconsin"
+BLSE/SMS55000001000000001,"All Employees, In Thousands; Mining and Logging - Wisconsin"
+BLSE/SMU02000004100000001,"All Employees, In Thousands; Wholesale Trade - Alaska"
+BLSE/SMS51000001000000001,"All Employees, In Thousands; Mining and Logging - Virginia"
+BLSE/SMS55000003000000001,"All Employees, In Thousands; Manufacturing - Wisconsin"
+BLSE/SMS51000000500000001,"All Employees, In Thousands; Total Private - Virginia"
+BLSE/SMU02000005051700001,"All Employees, In Thousands; Telecommunications - Alaska"
+BLSE/SMS56000000000000001,"All Employees, In Thousands; Total Nonfarm - Wyoming"
+BLSE/SMU04000001000000001,"All Employees, In Thousands; Mining and Logging - Arizona"
+BLSE/SMU06000000600000001,"All Employees, In Thousands; Goods Producing - California"
+BLSE/SMS56000000500000001,"All Employees, In Thousands; Total Private - Wyoming"
+BLSE/SMU04000003000000001,"All Employees, In Thousands; Manufacturing - Arizona"
+BLSE/SMS55000004300000001,"All Employees, In Thousands; Transportation and Utilities - Wisconsin"
+BLSE/SMS56000003000000001,"All Employees, In Thousands; Manufacturing - Wyoming"
+BLSE/SMS56000000700000001,"All Employees, In Thousands; Service-Providing - Wyoming"
+BLSE/SMU06000005553100001,"All Employees, In Thousands; Real Estate - California"
+BLSE/SMS72000000500000001,"All Employees, In Thousands; Total Private - Puerto Rico"
+BLSE/SMS56000001000000001,"All Employees, In Thousands; Mining and Logging - Wyoming"
+BLSE/SMS53000004300000001,"All Employees, In Thousands; Transportation and Utilities - Washington"
+BLSE/SMU04000005051700001,"All Employees, In Thousands; Telecommunications - Arizona"
+BLSE/SMS72000009000000001,"All Employees, In Thousands; Government - Puerto Rico"
+BLSE/SMS72000000000000001,"All Employees, In Thousands; Total Nonfarm - Puerto Rico"
+BLSE/SMS72000003000000001,"All Employees, In Thousands; Manufacturing - Puerto Rico"
+BLSE/SMS53000009000000001,"All Employees, In Thousands; Government - Washington"
+BLSE/SMU05000004100000001,"All Employees, In Thousands; Wholesale Trade - Arkansas"
+BLSE/SMU08000000700000001,"All Employees, In Thousands; Service-Providing - Colorado"
+BLSE/SMU08000003000000001,"All Employees, In Thousands; Manufacturing - Colorado"
+BLSE/SMU08000004348400001,"All Employees, In Thousands; Truck Transportation - Colorado"
+BLSE/SMS54000000000000001,"All Employees, In Thousands; Total Nonfarm - West Virginia"
+BLSE/SMU08000003100000001,"All Employees, In Thousands; Durable Goods - Colorado"
+BLSE/SMU06000001000000001,"All Employees, In Thousands; Mining and Logging - California"
+BLSE/SMS55000000600000001,"All Employees, In Thousands; Goods Producing - Wisconsin"
+BLSE/SMU01000001000000001,"All Employees, In Thousands; Mining and Logging - Alabama"
+BLSE/SMU01000000700000001,"All Employees, In Thousands; Service-Providing - Alabama"
+BLSE/SMS55000003100000001,"All Employees, In Thousands; Durable Goods - Wisconsin"
+BLSE/SMU06000004348100001,"All Employees, In Thousands; Air Transportation - California"
+BLSE/SMU01000004300000001,"All Employees, In Thousands; Transportation and Utilities - Alabama"
+BLSE/SMU01000004348400001,"All Employees, In Thousands; Truck Transportation - Alabama"
+BLSE/SMS55000009000000001,"All Employees, In Thousands; Government - Wisconsin"
+BLSE/SMU02000000000000001,"All Employees, In Thousands; Total Nonfarm - Alaska"
+BLSE/SMU02000000600000001,"All Employees, In Thousands; Goods Producing - Alaska"
+BLSE/SMU08000000500000001,"All Employees, In Thousands; Total Private - Colorado"
+BLSE/SMU10000000000000001,"All Employees, In Thousands; Total Nonfarm - Delaware"
+BLSE/SMU02000003100000001,"All Employees, In Thousands; Durable Goods - Alaska"
+BLSE/SMU02000000700000001,"All Employees, In Thousands; Service-Providing - Alaska"
+BLSE/SMS56000004100000001,"All Employees, In Thousands; Wholesale Trade - Wyoming"
+BLSE/SMU02000004348100001,"All Employees, In Thousands; Air Transportation - Alaska"
+BLSE/SMU08000004100000001,"All Employees, In Thousands; Wholesale Trade - Colorado"
+BLSE/SMU10000003000000001,"All Employees, In Thousands; Manufacturing - Delaware"
+BLSE/SMU04000000000000001,"All Employees, In Thousands; Total Nonfarm - Arizona"
+BLSE/SMS78000000000000001,"All Employees, In Thousands; Total Nonfarm - Virgin Islands"
+BLSE/SMS72000000600000001,"All Employees, In Thousands; Goods Producing - Puerto Rico"
+BLSE/SMU04000000700000001,"All Employees, In Thousands; Service-Providing - Arizona"
+BLSE/SMU08000009000000001,"All Employees, In Thousands; Government - Colorado"
+BLSE/SMU11000000500000001,"All Employees, In Thousands; Total Private - District of Columbia"
+BLSE/SMU09000003000000001,"All Employees, In Thousands; Manufacturing - Connecticut"
+BLSE/SMU11000000700000001,"All Employees, In Thousands; Service-Providing - District of Columbia"
+BLSE/SMU04000004300000001,"All Employees, In Thousands; Transportation and Utilities - Arizona"
+BLSE/SMU11000003000000001,"All Employees, In Thousands; Manufacturing - District of Columbia"
+BLSE/SMU01000000500000001,"All Employees, In Thousands; Total Private - Alabama"
+BLSE/SMU01000000600000001,"All Employees, In Thousands; Goods Producing - Alabama"
+BLSE/SMU09000004100000001,"All Employees, In Thousands; Wholesale Trade - Connecticut"
+BLSE/SMU04000004348400001,"All Employees, In Thousands; Truck Transportation - Arizona"
+BLSE/SMU05000000000000001,"All Employees, In Thousands; Total Nonfarm - Arkansas"
+BLSE/SMU09000004348400001,"All Employees, In Thousands; Truck Transportation - Connecticut"
+BLSE/SMU05000000500000001,"All Employees, In Thousands; Total Private - Arkansas"
+BLSE/SMU01000003000000001,"All Employees, In Thousands; Manufacturing - Alabama"
+BLSE/SMU05000001000000001,"All Employees, In Thousands; Mining and Logging - Arkansas"
+BLSE/SMU09000009000000001,"All Employees, In Thousands; Government - Connecticut"
+BLSE/SMU05000003000000001,"All Employees, In Thousands; Manufacturing - Arkansas"
+BLSE/SMU10000003100000001,"All Employees, In Thousands; Durable Goods - Delaware"
+BLSE/SMU01000009000000001,"All Employees, In Thousands; Government - Alabama"
+BLSE/SMU05000009000000001,"All Employees, In Thousands; Government - Arkansas"
+BLSE/SMU10000004300000001,"All Employees, In Thousands; Transportation and Utilities - Delaware"
+BLSE/SMU06000000500000001,"All Employees, In Thousands; Total Private - California"
+BLSE/SMU02000001000000001,"All Employees, In Thousands; Mining and Logging - Alaska"
+BLSE/SMU12000004348400001,"All Employees, In Thousands; Truck Transportation - Florida"
+BLSE/SMU12000009000000001,"All Employees, In Thousands; Government - Florida"
+BLSE/SMU02000000500000001,"All Employees, In Thousands; Total Private - Alaska"
+BLSE/SMU06000004100000001,"All Employees, In Thousands; Wholesale Trade - California"
+BLSE/SMU02000004300000001,"All Employees, In Thousands; Transportation and Utilities - Alaska"
+BLSE/SMU06000004300000001,"All Employees, In Thousands; Transportation and Utilities - California"
+BLSE/SMU02000009000000001,"All Employees, In Thousands; Government - Alaska"
+BLSE/SMU06000003100000001,"All Employees, In Thousands; Durable Goods - California"
+BLSE/SMU11000000000000001,"All Employees, In Thousands; Total Nonfarm - District of Columbia"
+BLSE/SMU06000005051700001,"All Employees, In Thousands; Telecommunications - California"
+BLSE/SMU11000009093248001,"All Employees, In Thousands; Transportation - District of Columbia"
+BLSE/SMU08000000000000001,"All Employees, In Thousands; Total Nonfarm - Colorado"
+BLSE/SMU12000000700000001,"All Employees, In Thousands; Service-Providing - Florida"
+BLSE/SMU08000000600000001,"All Employees, In Thousands; Goods Producing - Colorado"
+BLSE/SMU04000004100000001,"All Employees, In Thousands; Wholesale Trade - Arizona"
+BLSE/SMU08000001000000001,"All Employees, In Thousands; Mining and Logging - Colorado"
+BLSE/SMU13000005051700001,"All Employees, In Thousands; Telecommunications - Georgia"
+BLSE/SMU08000004300000001,"All Employees, In Thousands; Transportation and Utilities - Colorado"
+BLSE/SMU04000009000000001,"All Employees, In Thousands; Government - Arizona"
+BLSE/SMU12000004100000001,"All Employees, In Thousands; Wholesale Trade - Florida"
+BLSE/SMU05000000600000001,"All Employees, In Thousands; Goods Producing - Arkansas"
+BLSE/SMU08000004348100001,"All Employees, In Thousands; Air Transportation - Colorado"
+BLSE/SMU08000005051700001,"All Employees, In Thousands; Telecommunications - Colorado"
+BLSE/SMU12000004300000001,"All Employees, In Thousands; Transportation and Utilities - Florida"
+BLSE/SMU15000004100000001,"All Employees, In Thousands; Wholesale Trade - Hawaii"
+BLSE/SMU12000004348100001,"All Employees, In Thousands; Air Transportation - Florida"
+BLSE/SMU08000005553100001,"All Employees, In Thousands; Real Estate - Colorado"
+BLSE/SMU09000000000000001,"All Employees, In Thousands; Total Nonfarm - Connecticut"
+BLSE/SMU05000004300000001,"All Employees, In Thousands; Transportation and Utilities - Arkansas"
+BLSE/SMU09000000600000001,"All Employees, In Thousands; Goods Producing - Connecticut"
+BLSE/SMU13000000700000001,"All Employees, In Thousands; Service-Providing - Georgia"
+BLSE/SMU13000003000000001,"All Employees, In Thousands; Manufacturing - Georgia"
+BLSE/SMU09000001000000001,"All Employees, In Thousands; Mining and Logging - Connecticut"
+BLSE/SMU15000009000000001,"All Employees, In Thousands; Government - Hawaii"
+BLSE/SMU06000000000000001,"All Employees, In Thousands; Total Nonfarm - California"
+BLSE/SMU09000003100000001,"All Employees, In Thousands; Durable Goods - Connecticut"
+BLSE/SMU06000003000000001,"All Employees, In Thousands; Manufacturing - California"
+BLSE/SMU16000000700000001,"All Employees, In Thousands; Service-Providing - Idaho"
+BLSE/SMU09000005051700001,"All Employees, In Thousands; Telecommunications - Connecticut"
+BLSE/SMU06000000700000001,"All Employees, In Thousands; Service-Providing - California"
+BLSE/SMU16000005051700001,"All Employees, In Thousands; Telecommunications - Idaho"
+BLSE/SMU13000004100000001,"All Employees, In Thousands; Wholesale Trade - Georgia"
+BLSE/SMU06000004348400001,"All Employees, In Thousands; Truck Transportation - California"
+BLSE/SMU06000009000000001,"All Employees, In Thousands; Government - California"
+BLSE/SMU15000000500000001,"All Employees, In Thousands; Total Private - Hawaii"
+BLSE/SMU10000000700000001,"All Employees, In Thousands; Service-Providing - Delaware"
+BLSE/SMU10000004100000001,"All Employees, In Thousands; Wholesale Trade - Delaware"
+BLSE/SMU15000003100000001,"All Employees, In Thousands; Durable Goods - Hawaii"
+BLSE/SMU17000000500000001,"All Employees, In Thousands; Total Private - Illinois"
+BLSE/SMU15000004348100001,"All Employees, In Thousands; Air Transportation - Hawaii"
+BLSE/SMU11000000600000001,"All Employees, In Thousands; Goods Producing - District of Columbia"
+BLSE/SMU11000004300000001,"All Employees, In Thousands; Transportation and Utilities - District of Columbia"
+BLSE/SMU18000000500000001,"All Employees, In Thousands; Total Private - Indiana"
+BLSE/SMU11000009000000001,"All Employees, In Thousands; Government - District of Columbia"
+BLSE/SMU12000000500000001,"All Employees, In Thousands; Total Private - Florida"
+BLSE/SMU16000000000000001,"All Employees, In Thousands; Total Nonfarm - Idaho"
+BLSE/SMU11000004100000001,"All Employees, In Thousands; Wholesale Trade - District of Columbia"
+BLSE/SMU12000000000000001,"All Employees, In Thousands; Total Nonfarm - Florida"
+BLSE/SMU09000000500000001,"All Employees, In Thousands; Total Private - Connecticut"
+BLSE/SMU17000009000000001,"All Employees, In Thousands; Government - Illinois"
+BLSE/SMU09000000700000001,"All Employees, In Thousands; Service-Providing - Connecticut"
+BLSE/SMU12000003000000001,"All Employees, In Thousands; Manufacturing - Florida"
+BLSE/SMU16000003000000001,"All Employees, In Thousands; Manufacturing - Idaho"
+BLSE/SMU16000004300000001,"All Employees, In Thousands; Transportation and Utilities - Idaho"
+BLSE/SMU17000000000000001,"All Employees, In Thousands; Total Nonfarm - Illinois"
+BLSE/SMU09000004300000001,"All Employees, In Thousands; Transportation and Utilities - Connecticut"
+BLSE/SMU12000004348300001,"All Employees, In Thousands; Water Transportation - Florida"
+BLSE/SMU13000000000000001,"All Employees, In Thousands; Total Nonfarm - Georgia"
+BLSE/SMU18000009000000001,"All Employees, In Thousands; Government - Indiana"
+BLSE/SMU13000000500000001,"All Employees, In Thousands; Total Private - Georgia"
+BLSE/SMU19000000600000001,"All Employees, In Thousands; Goods Producing - Iowa"
+BLSE/SMU10000000600000001,"All Employees, In Thousands; Goods Producing - Delaware"
+BLSE/SMU10000000500000001,"All Employees, In Thousands; Total Private - Delaware"
+BLSE/SMU13000000600000001,"All Employees, In Thousands; Goods Producing - Georgia"
+BLSE/SMU19000001000000001,"All Employees, In Thousands; Mining and Logging - Iowa"
+BLSE/SMU17000004348100001,"All Employees, In Thousands; Air Transportation - Illinois"
+BLSE/SMU17000005051700001,"All Employees, In Thousands; Telecommunications - Illinois"
+BLSE/SMU13000003100000001,"All Employees, In Thousands; Durable Goods - Georgia"
+BLSE/SMU18000000000000001,"All Employees, In Thousands; Total Nonfarm - Indiana"
+BLSE/SMU18000003000000001,"All Employees, In Thousands; Manufacturing - Indiana"
+BLSE/SMU10000009000000001,"All Employees, In Thousands; Government - Delaware"
+BLSE/SMU13000004348100001,"All Employees, In Thousands; Air Transportation - Georgia"
+BLSE/SMU20000003100000001,"All Employees, In Thousands; Durable Goods - Kansas"
+BLSE/SMU18000001000000001,"All Employees, In Thousands; Mining and Logging - Indiana"
+BLSE/SMU13000009000000001,"All Employees, In Thousands; Government - Georgia"
+BLSE/SMU12000000600000001,"All Employees, In Thousands; Goods Producing - Florida"
+BLSE/SMU13000004300000001,"All Employees, In Thousands; Transportation and Utilities - Georgia"
+BLSE/SMU15000000000000001,"All Employees, In Thousands; Total Nonfarm - Hawaii"
+BLSE/SMU21000000000000001,"All Employees, In Thousands; Total Nonfarm - Kentucky"
+BLSE/SMU12000001000000001,"All Employees, In Thousands; Mining and Logging - Florida"
+BLSE/SMU15000003000000001,"All Employees, In Thousands; Manufacturing - Hawaii"
+BLSE/SMU15000000600000001,"All Employees, In Thousands; Goods Producing - Hawaii"
+BLSE/SMU15000004300000001,"All Employees, In Thousands; Transportation and Utilities - Hawaii"
+BLSE/SMU18000005051700001,"All Employees, In Thousands; Telecommunications - Indiana"
+BLSE/SMU18000004300000001,"All Employees, In Thousands; Transportation and Utilities - Indiana"
+BLSE/SMU19000003100000001,"All Employees, In Thousands; Durable Goods - Iowa"
+BLSE/SMU12000003100000001,"All Employees, In Thousands; Durable Goods - Florida"
+BLSE/SMU12000005051700001,"All Employees, In Thousands; Telecommunications - Florida"
+BLSE/SMU19000009000000001,"All Employees, In Thousands; Government - Iowa"
+BLSE/SMU12000005553100001,"All Employees, In Thousands; Real Estate - Florida"
+BLSE/SMU16000000600000001,"All Employees, In Thousands; Goods Producing - Idaho"
+BLSE/SMU16000000500000001,"All Employees, In Thousands; Total Private - Idaho"
+BLSE/SMU22000000700000001,"All Employees, In Thousands; Service-Providing - Louisiana"
+BLSE/SMU13000001000000001,"All Employees, In Thousands; Mining and Logging - Georgia"
+BLSE/SMU20000000000000001,"All Employees, In Thousands; Total Nonfarm - Kansas"
+BLSE/SMU16000003100000001,"All Employees, In Thousands; Durable Goods - Idaho"
+BLSE/SMU16000009000000001,"All Employees, In Thousands; Government - Idaho"
+BLSE/SMU16000004348400001,"All Employees, In Thousands; Truck Transportation - Idaho"
+BLSE/SMU22000000500000001,"All Employees, In Thousands; Total Private - Louisiana"
+BLSE/SMU17000000600000001,"All Employees, In Thousands; Goods Producing - Illinois"
+BLSE/SMU17000000700000001,"All Employees, In Thousands; Service-Providing - Illinois"
+BLSE/SMU20000004100000001,"All Employees, In Thousands; Wholesale Trade - Kansas"
+BLSE/SMU20000005051700001,"All Employees, In Thousands; Telecommunications - Kansas"
+BLSE/SMU21000000500000001,"All Employees, In Thousands; Total Private - Kentucky"
+BLSE/SMU21000000700000001,"All Employees, In Thousands; Service-Providing - Kentucky"
+BLSE/SMU13000004348400001,"All Employees, In Thousands; Truck Transportation - Georgia"
+BLSE/SMU17000004300000001,"All Employees, In Thousands; Transportation and Utilities - Illinois"
+BLSE/SMU15000000700000001,"All Employees, In Thousands; Service-Providing - Hawaii"
+BLSE/SMU17000003100000001,"All Employees, In Thousands; Durable Goods - Illinois"
+BLSE/SMU21000004100000001,"All Employees, In Thousands; Wholesale Trade - Kentucky"
+BLSE/SMU17000004348400001,"All Employees, In Thousands; Truck Transportation - Illinois"
+BLSE/SMU17000004100000001,"All Employees, In Thousands; Wholesale Trade - Illinois"
+BLSE/SMU15000005051700001,"All Employees, In Thousands; Telecommunications - Hawaii"
+BLSE/SMU23000004100000001,"All Employees, In Thousands; Wholesale Trade - Maine"
+BLSE/SMU22000009000000001,"All Employees, In Thousands; Government - Louisiana"
+BLSE/SMU18000000600000001,"All Employees, In Thousands; Goods Producing - Indiana"
+BLSE/SMU21000003000000001,"All Employees, In Thousands; Manufacturing - Kentucky"
+BLSE/SMU18000000700000001,"All Employees, In Thousands; Service-Providing - Indiana"
+BLSE/SMU21000009000000001,"All Employees, In Thousands; Government - Kentucky"
+BLSE/SMU21000004348400001,"All Employees, In Thousands; Truck Transportation - Kentucky"
+BLSE/SMU24000000500000001,"All Employees, In Thousands; Total Private - Maryland"
+BLSE/SMU22000003100000001,"All Employees, In Thousands; Durable Goods - Louisiana"
+BLSE/SMU18000004100000001,"All Employees, In Thousands; Wholesale Trade - Indiana"
+BLSE/SMU16000001000000001,"All Employees, In Thousands; Mining and Logging - Idaho"
+BLSE/SMU18000004348400001,"All Employees, In Thousands; Truck Transportation - Indiana"
+BLSE/SMU16000004100000001,"All Employees, In Thousands; Wholesale Trade - Idaho"
+BLSE/SMU18000005553100001,"All Employees, In Thousands; Real Estate - Indiana"
+BLSE/SMU19000000000000001,"All Employees, In Thousands; Total Nonfarm - Iowa"
+BLSE/SMU19000003000000001,"All Employees, In Thousands; Manufacturing - Iowa"
+BLSE/SMU24000003000000001,"All Employees, In Thousands; Manufacturing - Maryland"
+BLSE/SMU24000004348400001,"All Employees, In Thousands; Truck Transportation - Maryland"
+BLSE/SMU19000004300000001,"All Employees, In Thousands; Transportation and Utilities - Iowa"
+BLSE/SMU25000000000000001,"All Employees, In Thousands; Total Nonfarm - Massachusetts"
+BLSE/SMU25000000500000001,"All Employees, In Thousands; Total Private - Massachusetts"
+BLSE/SMU19000004348400001,"All Employees, In Thousands; Truck Transportation - Iowa"
+BLSE/SMU17000001000000001,"All Employees, In Thousands; Mining and Logging - Illinois"
+BLSE/SMU23000000000000001,"All Employees, In Thousands; Total Nonfarm - Maine"
+BLSE/SMU23000003000000001,"All Employees, In Thousands; Manufacturing - Maine"
+BLSE/SMU23000009000000001,"All Employees, In Thousands; Government - Maine"
+BLSE/SMU17000003000000001,"All Employees, In Thousands; Manufacturing - Illinois"
+BLSE/SMU20000003000000001,"All Employees, In Thousands; Manufacturing - Kansas"
+BLSE/SMU20000000700000001,"All Employees, In Thousands; Service-Providing - Kansas"
+BLSE/SMU17000005553100001,"All Employees, In Thousands; Real Estate - Illinois"
+BLSE/SMU20000004300000001,"All Employees, In Thousands; Transportation and Utilities - Kansas"
+BLSE/SMU20000001000000001,"All Employees, In Thousands; Mining and Logging - Kansas"
+BLSE/SMU25000005051700001,"All Employees, In Thousands; Telecommunications - Massachusetts"
+BLSE/SMU20000004348400001,"All Employees, In Thousands; Truck Transportation - Kansas"
+BLSE/SMU25000004300000001,"All Employees, In Thousands; Transportation and Utilities - Massachusetts"
+BLSE/SMU18000003100000001,"All Employees, In Thousands; Durable Goods - Indiana"
+BLSE/SMU21000000600000001,"All Employees, In Thousands; Goods Producing - Kentucky"
+BLSE/SMU26000000700000001,"All Employees, In Thousands; Service-Providing - Michigan"
+BLSE/SMU26000004100000001,"All Employees, In Thousands; Wholesale Trade - Michigan"
+BLSE/SMU24000004300000001,"All Employees, In Thousands; Transportation and Utilities - Maryland"
+BLSE/SMU25000000700000001,"All Employees, In Thousands; Service-Providing - Massachusetts"
+BLSE/SMU25000003000000001,"All Employees, In Thousands; Manufacturing - Massachusetts"
+BLSE/SMU21000001000000001,"All Employees, In Thousands; Mining and Logging - Kentucky"
+BLSE/SMU21000004300000001,"All Employees, In Thousands; Transportation and Utilities - Kentucky"
+BLSE/SMU19000000500000001,"All Employees, In Thousands; Total Private - Iowa"
+BLSE/SMU22000000000000001,"All Employees, In Thousands; Total Nonfarm - Louisiana"
+BLSE/SMU19000000700000001,"All Employees, In Thousands; Service-Providing - Iowa"
+BLSE/SMU19000004100000001,"All Employees, In Thousands; Wholesale Trade - Iowa"
+BLSE/SMU22000003000000001,"All Employees, In Thousands; Manufacturing - Louisiana"
+BLSE/SMU22000001000000001,"All Employees, In Thousands; Mining and Logging - Louisiana"
+BLSE/SMU26000004348400001,"All Employees, In Thousands; Truck Transportation - Michigan"
+BLSE/SMU27000003000000001,"All Employees, In Thousands; Manufacturing - Minnesota"
+BLSE/SMU20000000500000001,"All Employees, In Thousands; Total Private - Kansas"
+BLSE/SMU27000004348400001,"All Employees, In Thousands; Truck Transportation - Minnesota"
+BLSE/SMU25000005553100001,"All Employees, In Thousands; Real Estate - Massachusetts"
+BLSE/SMU25000004348100001,"All Employees, In Thousands; Air Transportation - Massachusetts"
+BLSE/SMU20000000600000001,"All Employees, In Thousands; Goods Producing - Kansas"
+BLSE/SMU26000001000000001,"All Employees, In Thousands; Mining and Logging - Michigan"
+BLSE/SMU20000009000000001,"All Employees, In Thousands; Government - Kansas"
+BLSE/SMU22000004300000001,"All Employees, In Thousands; Transportation and Utilities - Louisiana"
+BLSE/SMU22000004348400001,"All Employees, In Thousands; Truck Transportation - Louisiana"
+BLSE/SMU28000000000000001,"All Employees, In Thousands; Total Nonfarm - Mississippi"
+BLSE/SMU23000000700000001,"All Employees, In Thousands; Service-Providing - Maine"
+BLSE/SMU23000000500000001,"All Employees, In Thousands; Total Private - Maine"
+BLSE/SMU23000004300000001,"All Employees, In Thousands; Transportation and Utilities - Maine"
+BLSE/SMU23000001000000001,"All Employees, In Thousands; Mining and Logging - Maine"
+BLSE/SMU24000000000000001,"All Employees, In Thousands; Total Nonfarm - Maryland"
+BLSE/SMU28000003000000001,"All Employees, In Thousands; Manufacturing - Mississippi"
+BLSE/SMU29000000000000001,"All Employees, In Thousands; Total Nonfarm - Missouri"
+BLSE/SMU26000005553100001,"All Employees, In Thousands; Real Estate - Michigan"
+BLSE/SMU21000003100000001,"All Employees, In Thousands; Durable Goods - Kentucky"
+BLSE/SMU27000000600000001,"All Employees, In Thousands; Goods Producing - Minnesota"
+BLSE/SMU22000000600000001,"All Employees, In Thousands; Goods Producing - Louisiana"
+BLSE/SMU21000005051700001,"All Employees, In Thousands; Telecommunications - Kentucky"
+BLSE/SMU27000004300000001,"All Employees, In Thousands; Transportation and Utilities - Minnesota"
+BLSE/SMU22000004100000001,"All Employees, In Thousands; Wholesale Trade - Louisiana"
+BLSE/SMU24000003100000001,"All Employees, In Thousands; Durable Goods - Maryland"
+BLSE/SMU24000000700000001,"All Employees, In Thousands; Service-Providing - Maryland"
+BLSE/SMU25000000600000001,"All Employees, In Thousands; Goods Producing - Massachusetts"
+BLSE/SMU25000003100000001,"All Employees, In Thousands; Durable Goods - Massachusetts"
+BLSE/SMU29000004300000001,"All Employees, In Thousands; Transportation and Utilities - Missouri"
+BLSE/SMU29000001000000001,"All Employees, In Thousands; Mining and Logging - Missouri"
+BLSE/SMU28000000500000001,"All Employees, In Thousands; Total Private - Mississippi"
+BLSE/SMU30000000600000001,"All Employees, In Thousands; Goods Producing - Montana"
+BLSE/SMU29000009000000001,"All Employees, In Thousands; Government - Missouri"
+BLSE/SMU24000000600000001,"All Employees, In Thousands; Goods Producing - Maryland"
+BLSE/SMU23000003100000001,"All Employees, In Thousands; Durable Goods - Maine"
+BLSE/SMU22000005051700001,"All Employees, In Thousands; Telecommunications - Louisiana"
+BLSE/SMU23000000600000001,"All Employees, In Thousands; Goods Producing - Maine"
+BLSE/SMU30000009000000001,"All Employees, In Thousands; Government - Montana"
+BLSE/SMU30000004300000001,"All Employees, In Thousands; Transportation and Utilities - Montana"
+BLSE/SMU26000000500000001,"All Employees, In Thousands; Total Private - Michigan"
+BLSE/SMU26000000000000001,"All Employees, In Thousands; Total Nonfarm - Michigan"
+BLSE/SMU25000004348400001,"All Employees, In Thousands; Truck Transportation - Massachusetts"
+BLSE/SMU26000003100000001,"All Employees, In Thousands; Durable Goods - Michigan"
+BLSE/SMU26000003000000001,"All Employees, In Thousands; Manufacturing - Michigan"
+BLSE/SMU31000000700000001,"All Employees, In Thousands; Service-Providing - Nebraska"
+BLSE/SMU31000004300000001,"All Employees, In Thousands; Transportation and Utilities - Nebraska"
+BLSE/SMU26000004300000001,"All Employees, In Thousands; Transportation and Utilities - Michigan"
+BLSE/SMU31000009000000001,"All Employees, In Thousands; Government - Nebraska"
+BLSE/SMU28000009000000001,"All Employees, In Thousands; Government - Mississippi"
+BLSE/SMU24000004100000001,"All Employees, In Thousands; Wholesale Trade - Maryland"
+BLSE/SMU26000004348100001,"All Employees, In Thousands; Air Transportation - Michigan"
+BLSE/SMU32000000700000001,"All Employees, In Thousands; Service-Providing - Nevada"
+BLSE/SMU30000000700000001,"All Employees, In Thousands; Service-Providing - Montana"
+BLSE/SMU25000001000000001,"All Employees, In Thousands; Mining and Logging - Massachusetts"
+BLSE/SMU26000004348200001,"All Employees, In Thousands; Rail Transportation - Michigan"
+BLSE/SMU24000009000000001,"All Employees, In Thousands; Government - Maryland"
+BLSE/SMU32000003000000001,"All Employees, In Thousands; Manufacturing - Nevada"
+BLSE/SMU27000000500000001,"All Employees, In Thousands; Total Private - Minnesota"
+BLSE/SMU27000000000000001,"All Employees, In Thousands; Total Nonfarm - Minnesota"
+BLSE/SMU27000001000000001,"All Employees, In Thousands; Mining and Logging - Minnesota"
+BLSE/SMU27000003100000001,"All Employees, In Thousands; Durable Goods - Minnesota"
+BLSE/SMU32000001000000001,"All Employees, In Thousands; Mining and Logging - Nevada"
+BLSE/SMU27000004100000001,"All Employees, In Thousands; Wholesale Trade - Minnesota"
+BLSE/SMU33000000000000001,"All Employees, In Thousands; Total Nonfarm - New Hampshire"
+BLSE/SMU25000004100000001,"All Employees, In Thousands; Wholesale Trade - Massachusetts"
+BLSE/SMU27000005051700001,"All Employees, In Thousands; Telecommunications - Minnesota"
+BLSE/SMU33000001000000001,"All Employees, In Thousands; Mining and Logging - New Hampshire"
+BLSE/SMU31000004100000001,"All Employees, In Thousands; Wholesale Trade - Nebraska"
+BLSE/SMU31000003100000001,"All Employees, In Thousands; Durable Goods - Nebraska"
+BLSE/SMU25000009000000001,"All Employees, In Thousands; Government - Massachusetts"
+BLSE/SMU27000000700000001,"All Employees, In Thousands; Service-Providing - Minnesota"
+BLSE/SMU27000005553100001,"All Employees, In Thousands; Real Estate - Minnesota"
+BLSE/SMU33000004100000001,"All Employees, In Thousands; Wholesale Trade - New Hampshire"
+BLSE/SMU26000000600000001,"All Employees, In Thousands; Goods Producing - Michigan"
+BLSE/SMU28000000600000001,"All Employees, In Thousands; Goods Producing - Mississippi"
+BLSE/SMU27000009000000001,"All Employees, In Thousands; Government - Minnesota"
+BLSE/SMU28000004300000001,"All Employees, In Thousands; Transportation and Utilities - Mississippi"
+BLSE/SMU34000000600000001,"All Employees, In Thousands; Goods Producing - New Jersey"
+BLSE/SMU28000005051700001,"All Employees, In Thousands; Telecommunications - Mississippi"
+BLSE/SMU28000004100000001,"All Employees, In Thousands; Wholesale Trade - Mississippi"
+BLSE/SMU34000001000000001,"All Employees, In Thousands; Mining and Logging - New Jersey"
+BLSE/SMU29000000500000001,"All Employees, In Thousands; Total Private - Missouri"
+BLSE/SMU34000003100000001,"All Employees, In Thousands; Durable Goods - New Jersey"
+BLSE/SMU34000009000000001,"All Employees, In Thousands; Government - New Jersey"
+BLSE/SMU29000000700000001,"All Employees, In Thousands; Service-Providing - Missouri"
+BLSE/SMU26000005051700001,"All Employees, In Thousands; Telecommunications - Michigan"
+BLSE/SMU29000003000000001,"All Employees, In Thousands; Manufacturing - Missouri"
+BLSE/SMU33000000700000001,"All Employees, In Thousands; Service-Providing - New Hampshire"
+BLSE/SMU29000003100000001,"All Employees, In Thousands; Durable Goods - Missouri"
+BLSE/SMU26000009000000001,"All Employees, In Thousands; Government - Michigan"
+BLSE/SMU29000004100000001,"All Employees, In Thousands; Wholesale Trade - Missouri"
+BLSE/SMU35000000700000001,"All Employees, In Thousands; Service-Providing - New Mexico"
+BLSE/SMU29000004348400001,"All Employees, In Thousands; Truck Transportation - Missouri"
+BLSE/SMU30000000500000001,"All Employees, In Thousands; Total Private - Montana"
+BLSE/SMU29000005051700001,"All Employees, In Thousands; Telecommunications - Missouri"
+BLSE/SMU34000000500000001,"All Employees, In Thousands; Total Private - New Jersey"
+BLSE/SMU30000003000000001,"All Employees, In Thousands; Manufacturing - Montana"
+BLSE/SMU36000000700000001,"All Employees, In Thousands; Service-Providing - New York"
+BLSE/SMU30000004100000001,"All Employees, In Thousands; Wholesale Trade - Montana"
+BLSE/SMU34000004300000001,"All Employees, In Thousands; Transportation and Utilities - New Jersey"
+BLSE/SMU28000001000000001,"All Employees, In Thousands; Mining and Logging - Mississippi"
+BLSE/SMU36000004300000001,"All Employees, In Thousands; Transportation and Utilities - New York"
+BLSE/SMU28000000700000001,"All Employees, In Thousands; Service-Providing - Mississippi"
+BLSE/SMU36000004348100001,"All Employees, In Thousands; Air Transportation - New York"
+BLSE/SMU30000004348400001,"All Employees, In Thousands; Truck Transportation - Montana"
+BLSE/SMU28000003100000001,"All Employees, In Thousands; Durable Goods - Mississippi"
+BLSE/SMU31000000500000001,"All Employees, In Thousands; Total Private - Nebraska"
+BLSE/SMU35000000000000001,"All Employees, In Thousands; Total Nonfarm - New Mexico"
+BLSE/SMU29000000600000001,"All Employees, In Thousands; Goods Producing - Missouri"
+BLSE/SMU32000000000000001,"All Employees, In Thousands; Total Nonfarm - Nevada"
+BLSE/SMU37000000500000001,"All Employees, In Thousands; Total Private - North Carolina"
+BLSE/SMU31000004348400001,"All Employees, In Thousands; Truck Transportation - Nebraska"
+BLSE/SMU35000003000000001,"All Employees, In Thousands; Manufacturing - New Mexico"
+BLSE/SMU32000000500000001,"All Employees, In Thousands; Total Private - Nevada"
+BLSE/SMU32000000600000001,"All Employees, In Thousands; Goods Producing - Nevada"
+BLSE/SMU36000000500000001,"All Employees, In Thousands; Total Private - New York"
+BLSE/SMU32000003100000001,"All Employees, In Thousands; Durable Goods - Nevada"
+BLSE/SMU30000000000000001,"All Employees, In Thousands; Total Nonfarm - Montana"
+BLSE/SMU32000004300000001,"All Employees, In Thousands; Transportation and Utilities - Nevada"
+BLSE/SMU38000000000000001,"All Employees, In Thousands; Total Nonfarm - North Dakota"
+BLSE/SMU32000009000000001,"All Employees, In Thousands; Government - Nevada"
+BLSE/SMU38000000600000001,"All Employees, In Thousands; Goods Producing - North Dakota"
+BLSE/SMU30000001000000001,"All Employees, In Thousands; Mining and Logging - Montana"
+BLSE/SMU33000000500000001,"All Employees, In Thousands; Total Private - New Hampshire"
+BLSE/SMU30000003100000001,"All Employees, In Thousands; Durable Goods - Montana"
+BLSE/SMU36000003100000001,"All Employees, In Thousands; Durable Goods - New York"
+BLSE/SMU33000003000000001,"All Employees, In Thousands; Manufacturing - New Hampshire"
+BLSE/SMU36000009000000001,"All Employees, In Thousands; Government - New York"
+BLSE/SMU37000000600000001,"All Employees, In Thousands; Goods Producing - North Carolina"
+BLSE/SMU33000004300000001,"All Employees, In Thousands; Transportation and Utilities - New Hampshire"
+BLSE/SMU39000000500000001,"All Employees, In Thousands; Total Private - Ohio"
+BLSE/SMU31000000000000001,"All Employees, In Thousands; Total Nonfarm - Nebraska"
+BLSE/SMU33000009000000001,"All Employees, In Thousands; Government - New Hampshire"
+BLSE/SMU31000000600000001,"All Employees, In Thousands; Goods Producing - Nebraska"
+BLSE/SMU34000000000000001,"All Employees, In Thousands; Total Nonfarm - New Jersey"
+BLSE/SMU31000003000000001,"All Employees, In Thousands; Manufacturing - Nebraska"
+BLSE/SMU34000000700000001,"All Employees, In Thousands; Service-Providing - New Jersey"
+BLSE/SMU31000004348200001,"All Employees, In Thousands; Rail Transportation - Nebraska"
+BLSE/SMU34000003000000001,"All Employees, In Thousands; Manufacturing - New Jersey"
+BLSE/SMU37000004348100001,"All Employees, In Thousands; Air Transportation - North Carolina"
+BLSE/SMU37000004300000001,"All Employees, In Thousands; Transportation and Utilities - North Carolina"
+BLSE/SMU39000004348400001,"All Employees, In Thousands; Truck Transportation - Ohio"
+BLSE/SMU34000004100000001,"All Employees, In Thousands; Wholesale Trade - New Jersey"
+BLSE/SMU34000004348100001,"All Employees, In Thousands; Air Transportation - New Jersey"
+BLSE/SMU37000005553100001,"All Employees, In Thousands; Real Estate - North Carolina"
+BLSE/SMU34000005553100001,"All Employees, In Thousands; Real Estate - New Jersey"
+BLSE/SMU38000004300000001,"All Employees, In Thousands; Transportation and Utilities - North Dakota"
+BLSE/SMU34000004348400001,"All Employees, In Thousands; Truck Transportation - New Jersey"
+BLSE/SMU32000004100000001,"All Employees, In Thousands; Wholesale Trade - Nevada"
+BLSE/SMU32000005051700001,"All Employees, In Thousands; Telecommunications - Nevada"
+BLSE/SMU35000004300000001,"All Employees, In Thousands; Transportation and Utilities - New Mexico"
+BLSE/SMU38000004348400001,"All Employees, In Thousands; Truck Transportation - North Dakota"
+BLSE/SMU35000001000000001,"All Employees, In Thousands; Mining and Logging - New Mexico"
+BLSE/SMU32000004348100001,"All Employees, In Thousands; Air Transportation - Nevada"
+BLSE/SMU35000009000000001,"All Employees, In Thousands; Government - New Mexico"
+BLSE/SMU40000004348100001,"All Employees, In Thousands; Air Transportation - Oklahoma"
+BLSE/SMU36000000000000001,"All Employees, In Thousands; Total Nonfarm - New York"
+BLSE/SMU40000005051700001,"All Employees, In Thousands; Telecommunications - Oklahoma"
+BLSE/SMU33000000600000001,"All Employees, In Thousands; Goods Producing - New Hampshire"
+BLSE/SMU39000003000000001,"All Employees, In Thousands; Manufacturing - Ohio"
+BLSE/SMU33000003100000001,"All Employees, In Thousands; Durable Goods - New Hampshire"
+BLSE/SMU36000000600000001,"All Employees, In Thousands; Goods Producing - New York"
+BLSE/SMU36000001000000001,"All Employees, In Thousands; Mining and Logging - New York"
+BLSE/SMU39000004300000001,"All Employees, In Thousands; Transportation and Utilities - Ohio"
+BLSE/SMU39000009000000001,"All Employees, In Thousands; Government - Ohio"
+BLSE/SMU36000004348400001,"All Employees, In Thousands; Truck Transportation - New York"
+BLSE/SMU36000004100000001,"All Employees, In Thousands; Wholesale Trade - New York"
+BLSE/SMU41000005051700001,"All Employees, In Thousands; Telecommunications - Oregon"
+BLSE/SMU40000000600000001,"All Employees, In Thousands; Goods Producing - Oklahoma"
+BLSE/SMU36000005552211001,"All Employees, In Thousands; Commercial Banking - New York"
+BLSE/SMU37000000000000001,"All Employees, In Thousands; Total Nonfarm - North Carolina"
+BLSE/SMU40000000500000001,"All Employees, In Thousands; Total Private - Oklahoma"
+BLSE/SMU40000000700000001,"All Employees, In Thousands; Service-Providing - Oklahoma"
+BLSE/SMU37000000700000001,"All Employees, In Thousands; Service-Providing - North Carolina"
+BLSE/SMU37000001000000001,"All Employees, In Thousands; Mining and Logging - North Carolina"
+BLSE/SMU34000005051700001,"All Employees, In Thousands; Telecommunications - New Jersey"
+BLSE/SMU40000004300000001,"All Employees, In Thousands; Transportation and Utilities - Oklahoma"
+BLSE/SMU40000003000000001,"All Employees, In Thousands; Manufacturing - Oklahoma"
+BLSE/SMU42000001000000001,"All Employees, In Thousands; Mining and Logging - Pennsylvania"
+BLSE/SMU35000000500000001,"All Employees, In Thousands; Total Private - New Mexico"
+BLSE/SMU35000000600000001,"All Employees, In Thousands; Goods Producing - New Mexico"
+BLSE/SMU37000004100000001,"All Employees, In Thousands; Wholesale Trade - North Carolina"
+BLSE/SMU35000004100000001,"All Employees, In Thousands; Wholesale Trade - New Mexico"
+BLSE/SMU37000004348400001,"All Employees, In Thousands; Truck Transportation - North Carolina"
+BLSE/SMU42000005553100001,"All Employees, In Thousands; Real Estate - Pennsylvania"
+BLSE/SMU41000001000000001,"All Employees, In Thousands; Mining and Logging - Oregon"
+BLSE/SMU37000009000000001,"All Employees, In Thousands; Government - North Carolina"
+BLSE/SMU38000001000000001,"All Employees, In Thousands; Mining and Logging - North Dakota"
+BLSE/SMU38000003100000001,"All Employees, In Thousands; Durable Goods - North Dakota"
+BLSE/SMU38000004100000001,"All Employees, In Thousands; Wholesale Trade - North Dakota"
+BLSE/SMU44000000000000001,"All Employees, In Thousands; Total Nonfarm - Rhode Island"
+BLSE/SMU44000003000000001,"All Employees, In Thousands; Manufacturing - Rhode Island"
+BLSE/SMU36000003000000001,"All Employees, In Thousands; Manufacturing - New York"
+BLSE/SMU41000005553100001,"All Employees, In Thousands; Real Estate - Oregon"
+BLSE/SMU39000000000000001,"All Employees, In Thousands; Total Nonfarm - Ohio"
+BLSE/SMU36000005051700001,"All Employees, In Thousands; Telecommunications - New York"
+BLSE/SMU39000000700000001,"All Employees, In Thousands; Service-Providing - Ohio"
+BLSE/SMU45000000500000001,"All Employees, In Thousands; Total Private - South Carolina"
+BLSE/SMU42000000700000001,"All Employees, In Thousands; Service-Providing - Pennsylvania"
+BLSE/SMU39000001000000001,"All Employees, In Thousands; Mining and Logging - Ohio"
+BLSE/SMU42000004100000001,"All Employees, In Thousands; Wholesale Trade - Pennsylvania"
+BLSE/SMU38000009000000001,"All Employees, In Thousands; Government - North Dakota"
+BLSE/SMU45000003000000001,"All Employees, In Thousands; Manufacturing - South Carolina"
+BLSE/SMU36000005553100001,"All Employees, In Thousands; Real Estate - New York"
+BLSE/SMU42000004348100001,"All Employees, In Thousands; Air Transportation - Pennsylvania"
+BLSE/SMU37000003000000001,"All Employees, In Thousands; Manufacturing - North Carolina"
+BLSE/SMU39000003100000001,"All Employees, In Thousands; Durable Goods - Ohio"
+BLSE/SMU37000003100000001,"All Employees, In Thousands; Durable Goods - North Carolina"
+BLSE/SMU45000009000000001,"All Employees, In Thousands; Government - South Carolina"
+BLSE/SMU39000004100000001,"All Employees, In Thousands; Wholesale Trade - Ohio"
+BLSE/SMU39000005051700001,"All Employees, In Thousands; Telecommunications - Ohio"
+BLSE/SMU44000000500000001,"All Employees, In Thousands; Total Private - Rhode Island"
+BLSE/SMU46000000700000001,"All Employees, In Thousands; Service-Providing - South Dakota"
+BLSE/SMU47000000000000001,"All Employees, In Thousands; Total Nonfarm - Tennessee"
+BLSE/SMU44000000600000001,"All Employees, In Thousands; Goods Producing - Rhode Island"
+BLSE/SMU37000005051700001,"All Employees, In Thousands; Telecommunications - North Carolina"
+BLSE/SMU40000000000000001,"All Employees, In Thousands; Total Nonfarm - Oklahoma"
+BLSE/SMU40000001000000001,"All Employees, In Thousands; Mining and Logging - Oklahoma"
+BLSE/SMU38000000500000001,"All Employees, In Thousands; Total Private - North Dakota"
+BLSE/SMU44000004300000001,"All Employees, In Thousands; Transportation and Utilities - Rhode Island"
+BLSE/SMU38000000700000001,"All Employees, In Thousands; Service-Providing - North Dakota"
+BLSE/SMU40000004100000001,"All Employees, In Thousands; Wholesale Trade - Oklahoma"
+BLSE/SMU40000004348400001,"All Employees, In Thousands; Truck Transportation - Oklahoma"
+BLSE/SMU47000004100000001,"All Employees, In Thousands; Wholesale Trade - Tennessee"
+BLSE/SMU45000000700000001,"All Employees, In Thousands; Service-Providing - South Carolina"
+BLSE/SMU40000005553100001,"All Employees, In Thousands; Real Estate - Oklahoma"
+BLSE/SMU41000000000000001,"All Employees, In Thousands; Total Nonfarm - Oregon"
+BLSE/SMU48000000500000001,"All Employees, In Thousands; Total Private - Texas"
+BLSE/SMU41000000600000001,"All Employees, In Thousands; Goods Producing - Oregon"
+BLSE/SMU48000003000000001,"All Employees, In Thousands; Manufacturing - Texas"
+BLSE/SMU39000000600000001,"All Employees, In Thousands; Goods Producing - Ohio"
+BLSE/SMU48000001000000001,"All Employees, In Thousands; Mining and Logging - Texas"
+BLSE/SMU41000000700000001,"All Employees, In Thousands; Service-Providing - Oregon"
+BLSE/SMU46000003000000001,"All Employees, In Thousands; Manufacturing - South Dakota"
+BLSE/SMU41000004100000001,"All Employees, In Thousands; Wholesale Trade - Oregon"
+BLSE/SMU46000000000000001,"All Employees, In Thousands; Total Nonfarm - South Dakota"
+BLSE/SMU47000000500000001,"All Employees, In Thousands; Total Private - Tennessee"
+BLSE/SMU41000003100000001,"All Employees, In Thousands; Durable Goods - Oregon"
+BLSE/SMU41000004348400001,"All Employees, In Thousands; Truck Transportation - Oregon"
+BLSE/SMU39000004348100001,"All Employees, In Thousands; Air Transportation - Ohio"
+BLSE/SMU49000000000000001,"All Employees, In Thousands; Total Nonfarm - Utah"
+BLSE/SMU47000003000000001,"All Employees, In Thousands; Manufacturing - Tennessee"
+BLSE/SMU42000000000000001,"All Employees, In Thousands; Total Nonfarm - Pennsylvania"
+BLSE/SMU42000003000000001,"All Employees, In Thousands; Manufacturing - Pennsylvania"
+BLSE/SMU42000000500000001,"All Employees, In Thousands; Total Private - Pennsylvania"
+BLSE/SMU49000003100000001,"All Employees, In Thousands; Durable Goods - Utah"
+BLSE/SMU42000004348400001,"All Employees, In Thousands; Truck Transportation - Pennsylvania"
+BLSE/SMU49000004348100001,"All Employees, In Thousands; Air Transportation - Utah"
+BLSE/SMU48000000000000001,"All Employees, In Thousands; Total Nonfarm - Texas"
+BLSE/SMU48000000600000001,"All Employees, In Thousands; Goods Producing - Texas"
+BLSE/SMU38000003000000001,"All Employees, In Thousands; Manufacturing - North Dakota"
+BLSE/SMU40000009000000001,"All Employees, In Thousands; Government - Oklahoma"
+BLSE/SMU40000003100000001,"All Employees, In Thousands; Durable Goods - Oklahoma"
+BLSE/SMU48000004348400001,"All Employees, In Thousands; Truck Transportation - Texas"
+BLSE/SMU50000000500000001,"All Employees, In Thousands; Total Private - Vermont"
+BLSE/SMU41000000500000001,"All Employees, In Thousands; Total Private - Oregon"
+BLSE/SMU44000001000000001,"All Employees, In Thousands; Mining and Logging - Rhode Island"
+BLSE/SMU44000004100000001,"All Employees, In Thousands; Wholesale Trade - Rhode Island"
+BLSE/SMU48000005553100001,"All Employees, In Thousands; Real Estate - Texas"
+BLSE/SMU44000003100000001,"All Employees, In Thousands; Durable Goods - Rhode Island"
+BLSE/SMU50000000700000001,"All Employees, In Thousands; Service-Providing - Vermont"
+BLSE/SMU50000003100000001,"All Employees, In Thousands; Durable Goods - Vermont"
+BLSE/SMU41000003000000001,"All Employees, In Thousands; Manufacturing - Oregon"
+BLSE/SMU51000000500000001,"All Employees, In Thousands; Total Private - Virginia"
+BLSE/SMU45000000000000001,"All Employees, In Thousands; Total Nonfarm - South Carolina"
+BLSE/SMU41000004300000001,"All Employees, In Thousands; Transportation and Utilities - Oregon"
+BLSE/SMU49000000600000001,"All Employees, In Thousands; Goods Producing - Utah"
+BLSE/SMU49000000500000001,"All Employees, In Thousands; Total Private - Utah"
+BLSE/SMU51000003000000001,"All Employees, In Thousands; Manufacturing - Virginia"
+BLSE/SMU45000001000000001,"All Employees, In Thousands; Mining and Logging - South Carolina"
+BLSE/SMU41000009000000001,"All Employees, In Thousands; Government - Oregon"
+BLSE/SMU45000004100000001,"All Employees, In Thousands; Wholesale Trade - South Carolina"
+BLSE/SMU45000003100000001,"All Employees, In Thousands; Durable Goods - South Carolina"
+BLSE/SMU42000000600000001,"All Employees, In Thousands; Goods Producing - Pennsylvania"
+BLSE/SMU49000009000000001,"All Employees, In Thousands; Government - Utah"
+BLSE/SMU42000003100000001,"All Employees, In Thousands; Durable Goods - Pennsylvania"
+BLSE/SMU49000005051700001,"All Employees, In Thousands; Telecommunications - Utah"
+BLSE/SMU42000004300000001,"All Employees, In Thousands; Transportation and Utilities - Pennsylvania"
+BLSE/SMU45000004300000001,"All Employees, In Thousands; Transportation and Utilities - South Carolina"
+BLSE/SMU53000003000000001,"All Employees, In Thousands; Manufacturing - Washington"
+BLSE/SMU46000004100000001,"All Employees, In Thousands; Wholesale Trade - South Dakota"
+BLSE/SMU50000000600000001,"All Employees, In Thousands; Goods Producing - Vermont"
+BLSE/SMU42000005051700001,"All Employees, In Thousands; Telecommunications - Pennsylvania"
+BLSE/SMU46000009000000001,"All Employees, In Thousands; Government - South Dakota"
+BLSE/SMU42000009000000001,"All Employees, In Thousands; Government - Pennsylvania"
+BLSE/SMU47000000600000001,"All Employees, In Thousands; Goods Producing - Tennessee"
+BLSE/SMU53000004348400001,"All Employees, In Thousands; Truck Transportation - Washington"
+BLSE/SMU53000009000000001,"All Employees, In Thousands; Government - Washington"
+BLSE/SMU50000004300000001,"All Employees, In Thousands; Transportation and Utilities - Vermont"
+BLSE/SMU50000003000000001,"All Employees, In Thousands; Manufacturing - Vermont"
+BLSE/SMU50000009000000001,"All Employees, In Thousands; Government - Vermont"
+BLSE/SMU47000003100000001,"All Employees, In Thousands; Durable Goods - Tennessee"
+BLSE/SMU44000000700000001,"All Employees, In Thousands; Service-Providing - Rhode Island"
+BLSE/SMU47000000700000001,"All Employees, In Thousands; Service-Providing - Tennessee"
+BLSE/SMU51000003100000001,"All Employees, In Thousands; Durable Goods - Virginia"
+BLSE/SMU47000004300000001,"All Employees, In Thousands; Transportation and Utilities - Tennessee"
+BLSE/SMU51000004300000001,"All Employees, In Thousands; Transportation and Utilities - Virginia"
+BLSE/SMU47000004348400001,"All Employees, In Thousands; Truck Transportation - Tennessee"
+BLSE/SMU44000009000000001,"All Employees, In Thousands; Government - Rhode Island"
+BLSE/SMU48000004100000001,"All Employees, In Thousands; Wholesale Trade - Texas"
+BLSE/SMU45000000600000001,"All Employees, In Thousands; Goods Producing - South Carolina"
+BLSE/SMU54000001000000001,"All Employees, In Thousands; Mining and Logging - West Virginia"
+BLSE/SMU48000003100000001,"All Employees, In Thousands; Durable Goods - Texas"
+BLSE/SMU54000003100000001,"All Employees, In Thousands; Durable Goods - West Virginia"
+BLSE/SMU55000000500000001,"All Employees, In Thousands; Total Private - Wisconsin"
+BLSE/SMU53000000500000001,"All Employees, In Thousands; Total Private - Washington"
+BLSE/SMU55000004300000001,"All Employees, In Thousands; Transportation and Utilities - Wisconsin"
+BLSE/SMU48000005051700001,"All Employees, In Thousands; Telecommunications - Texas"
+BLSE/SMU53000000700000001,"All Employees, In Thousands; Service-Providing - Washington"
+BLSE/SMU48000004348100001,"All Employees, In Thousands; Air Transportation - Texas"
+BLSE/SMU53000004300000001,"All Employees, In Thousands; Transportation and Utilities - Washington"
+BLSE/SMU46000000600000001,"All Employees, In Thousands; Goods Producing - South Dakota"
+BLSE/SMU54000000000000001,"All Employees, In Thousands; Total Nonfarm - West Virginia"
+BLSE/SMU46000000500000001,"All Employees, In Thousands; Total Private - South Dakota"
+BLSE/SMU49000001000000001,"All Employees, In Thousands; Mining and Logging - Utah"
+BLSE/SMU46000004300000001,"All Employees, In Thousands; Transportation and Utilities - South Dakota"
+BLSE/SMU49000004100000001,"All Employees, In Thousands; Wholesale Trade - Utah"
+BLSE/SMU48000009000000001,"All Employees, In Thousands; Government - Texas"
+BLSE/SMU49000004348400001,"All Employees, In Thousands; Truck Transportation - Utah"
+BLSE/SMU49000005553100001,"All Employees, In Thousands; Real Estate - Utah"
+BLSE/SMU72000000500000001,"All Employees, In Thousands; Total Private - Puerto Rico"
+BLSE/SMU54000004100000001,"All Employees, In Thousands; Wholesale Trade - West Virginia"
+BLSE/SMU55000000700000001,"All Employees, In Thousands; Service-Providing - Wisconsin"
+BLSE/SMU72000000600000001,"All Employees, In Thousands; Goods Producing - Puerto Rico"
+BLSE/SMU55000003000000001,"All Employees, In Thousands; Manufacturing - Wisconsin"
+BLSE/SMU54000009000000001,"All Employees, In Thousands; Government - West Virginia"
+BLSE/SMU47000009000000001,"All Employees, In Thousands; Government - Tennessee"
+BLSE/SMU50000001000000001,"All Employees, In Thousands; Mining and Logging - Vermont"
+BLSE/SMU48000000700000001,"All Employees, In Thousands; Service-Providing - Texas"
+BLSE/SMU72000003000000001,"All Employees, In Thousands; Manufacturing - Puerto Rico"
+BLSE/SMU78000000000000001,"All Employees, In Thousands; Total Nonfarm - Virgin Islands"
+BLSE/SMU51000000000000001,"All Employees, In Thousands; Total Nonfarm - Virginia"
+BLSE/SMU78000000700000001,"All Employees, In Thousands; Service-Providing - Virgin Islands"
+BLSE/SMU48000004300000001,"All Employees, In Thousands; Transportation and Utilities - Texas"
+BLSE/SMU55000009000000001,"All Employees, In Thousands; Government - Wisconsin"
+BLSE/SMU56000000600000001,"All Employees, In Thousands; Goods Producing - Wyoming"
+BLSE/SMU51000004100000001,"All Employees, In Thousands; Wholesale Trade - Virginia"
+BLSE/SMU56000004348400001,"All Employees, In Thousands; Truck Transportation - Wyoming"
+BLSE/SMU49000000700000001,"All Employees, In Thousands; Service-Providing - Utah"
+BLSE/SMU49000003000000001,"All Employees, In Thousands; Manufacturing - Utah"
+BLSE/SMU56000009000000001,"All Employees, In Thousands; Government - Wyoming"
+BLSE/SMU51000009000000001,"All Employees, In Thousands; Government - Virginia"
+BLSE/SMU49000004300000001,"All Employees, In Thousands; Transportation and Utilities - Utah"
+BLSE/SMU53000001000000001,"All Employees, In Thousands; Mining and Logging - Washington"
+BLSE/SMU53000003100000001,"All Employees, In Thousands; Durable Goods - Washington"
+BLSE/SMU53000000000000001,"All Employees, In Thousands; Total Nonfarm - Washington"
+BLSE/SMU53000004100000001,"All Employees, In Thousands; Wholesale Trade - Washington"
+BLSE/SMU50000000000000001,"All Employees, In Thousands; Total Nonfarm - Vermont"
+BLSE/SMU72000003100000001,"All Employees, In Thousands; Durable Goods - Puerto Rico"
+BLSE/SMU72000004100000001,"All Employees, In Thousands; Wholesale Trade - Puerto Rico"
+BLSE/SMU54000000600000001,"All Employees, In Thousands; Goods Producing - West Virginia"
+BLSE/SMU78000004300000001,"All Employees, In Thousands; Transportation and Utilities - Virgin Islands"
+BLSE/SMU78000004100000001,"All Employees, In Thousands; Wholesale Trade - Virgin Islands"
+BLSE/SMU50000004100000001,"All Employees, In Thousands; Wholesale Trade - Vermont"
+BLSE/SMU54000003000000001,"All Employees, In Thousands; Manufacturing - West Virginia"
+BLSE/SMU51000000600000001,"All Employees, In Thousands; Goods Producing - Virginia"
+BLSE/SMU54000000700000001,"All Employees, In Thousands; Service-Providing - West Virginia"
+BLSE/SMU51000001000000001,"All Employees, In Thousands; Mining and Logging - Virginia"
+BLSE/SMU54000004300000001,"All Employees, In Thousands; Transportation and Utilities - West Virginia"
+BLSE/SMU55000000000000001,"All Employees, In Thousands; Total Nonfarm - Wisconsin"
+BLSE/SMU55000001000000001,"All Employees, In Thousands; Mining and Logging - Wisconsin"
+BLSE/SMU55000003100000001,"All Employees, In Thousands; Durable Goods - Wisconsin"
+BLSE/SMU55000004348400001,"All Employees, In Thousands; Truck Transportation - Wisconsin"
+BLSE/SMU53000000600000001,"All Employees, In Thousands; Goods Producing - Washington"
+BLSE/SMU53000004348100001,"All Employees, In Thousands; Air Transportation - Washington"
+BLSE/SMU56000000500000001,"All Employees, In Thousands; Total Private - Wyoming"
+BLSE/SMU56000001000000001,"All Employees, In Thousands; Mining and Logging - Wyoming"
+BLSE/SMU56000003000000001,"All Employees, In Thousands; Manufacturing - Wyoming"
+BLSE/SMU54000000500000001,"All Employees, In Thousands; Total Private - West Virginia"
+BLSE/SMU56000004100000001,"All Employees, In Thousands; Wholesale Trade - Wyoming"
+BLSE/SMU56000004300000001,"All Employees, In Thousands; Transportation and Utilities - Wyoming"
+BLSE/SMU72000000700000001,"All Employees, In Thousands; Service-Providing - Puerto Rico"
+BLSE/SMU72000004300000001,"All Employees, In Thousands; Transportation and Utilities - Puerto Rico"
+BLSE/SMU78000000500000001,"All Employees, In Thousands; Total Private - Virgin Islands"
+BLSE/SMU55000000600000001,"All Employees, In Thousands; Goods Producing - Wisconsin"
+BLSE/SMU55000004100000001,"All Employees, In Thousands; Wholesale Trade - Wisconsin"
+BLSE/SMU78000000600000001,"All Employees, In Thousands; Goods Producing - Virgin Islands"
+BLSE/SMU78000009000000001,"All Employees, In Thousands; Government - Virgin Islands"
+BLSE/SMU56000000000000001,"All Employees, In Thousands; Total Nonfarm - Wyoming"
+BLSE/SMU56000000700000001,"All Employees, In Thousands; Service-Providing - Wyoming"
+BLSE/SMU56000003100000001,"All Employees, In Thousands; Durable Goods - Wyoming"
+BLSE/SMU72000000000000001,"All Employees, In Thousands; Total Nonfarm - Puerto Rico"
+BLSE/SMU72000009000000001,"All Employees, In Thousands; Government - Puerto Rico"
+BLSE/SMU78000003000000001,"All Employees, In Thousands; Manufacturing - Virgin Islands"
+BLSE/SMS21000003100000001,"All Employees, In Thousands; Durable Goods - Kentucky"
